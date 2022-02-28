@@ -1,0 +1,1449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The yeare of jubile: or, Englands releasment, purchased by Gods immediate assistance, and powerfull aiding of her renowmed Parliament and the forces raised by them: under the command of the right valiant, prosperous, and pious generall, Sir Thomas Fairfax. Being a summarie of all the atchievements, victories, and remarkable procedings of the armies aforesaid, from the late famous battail of Nasby, fought Iune 14, 1645, to the late reducement of Oxford and Faringdon. Together with a true and perfect list of the prisoners, arms, and ammunition, taken at each fight, and in each garison. And published at the desire of many worthy persons of this kingdom. / By S. Sheppard. Printed according to the order of Parliament.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93103</idno>
+            <idno type="STC">Wing S3172</idno>
+            <idno type="STC">Thomason E343_8</idno>
+            <idno type="STC">ESTC R200945</idno>
+            <idno type="EEBO-CITATION">99861557</idno>
+            <idno type="PROQUEST">99861557</idno>
+            <idno type="VID">159774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159774)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E343[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The yeare of jubile: or, Englands releasment, purchased by Gods immediate assistance, and powerfull aiding of her renowmed Parliament and the forces raised by them: under the command of the right valiant, prosperous, and pious generall, Sir Thomas Fairfax. Being a summarie of all the atchievements, victories, and remarkable procedings of the armies aforesaid, from the late famous battail of Nasby, fought Iune 14, 1645, to the late reducement of Oxford and Faringdon. Together with a true and perfect list of the prisoners, arms, and ammunition, taken at each fight, and in each garison. And published at the desire of many worthy persons of this kingdom. / By S. Sheppard. Printed according to the order of Parliament.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8], 64 p. : port. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:159774:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Sir Thomas Fairfax</figDesc>
+                  <lg>
+                     <l>You that your Countrey love, and doe wiſh well</l>
+                     <l>
+                        <hi>Unto the peace of troubled</hi> ISRAEL,</l>
+                     <l>Behold this Picture, and behold the Man,</l>
+                     <l>That, under God, both Peace and Truth hath wan</l>
+                     <l>For this our Iſle, <hi>Honour and love his Name</hi>
+                     </l>
+                     <l>
+                        <hi>Reading this Book,</hi> that doth his worth proclaim.</l>
+                  </lg>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:159774:1" rendition="simple:additions"/>
+            <p> 
+               <hi>The Yeare of Jubile:</hi> OR, ENGLANDS RELEASMENT, Purchaſed by GODS immediate aſſiſtance, and powerfull aiding of Her renowmed Parliament and the Forces raiſed by them: Under the command of the Right Valiant, Proſpe<g ref="char:EOLhyphen"/>rous, and pious Generall, Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>Being a Summarie of all the Atchievements, Victories, and remarkable procedings of the Armies aforeſaid, from the late famous Battail of <hi>Nasby,</hi> fought <hi>Iune</hi> 14, 1645, to the late reducement of <hi>Oxford</hi> and <hi>Faringdon.</hi>
+            </p>
+            <p>
+               <hi>Together with a true and perfect Liſt of the Priſoners, Arms, and Ammunition, taken at each Fight, and in each Gariſon.</hi> And publiſhed at the deſire of many Worthy perſons of this Kingdom.</p>
+            <p>BY S. SHEPPARD.</p>
+            <q xml:lang="lat">
+               <hi>Arma virumque cano,</hi> 
+               <bibl>Aeneidos <hi>Lib.</hi> 1.</bibl>
+            </q>
+            <q>And that theſe dayes ſhould be remembred and kept in perpetuall remem<g ref="char:EOLhyphen"/>brance throughout every Generation. <bibl>
+                  <hi>Eſter.</hi> 9. 8.</bibl>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Printed according to the Order of Parliament.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. L.</hi> 1646.</p>
+            <pb facs="tcp:159774:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:159774:2"/>
+            <head>TO The Renowmed, Valiant, Pious, and worthily Honoured, SIR <hi>THOMAS FAIRFAX,</hi> Captain Generall of the Forces rai<g ref="char:EOLhyphen"/>ſed by the Parliament of <hi>England,</hi> for the defence of His Majeſties perſon, and priviledge of Parliament, and the liberty of the Subject.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving for the ſatisfa<g ref="char:EOLhyphen"/>ction of ſome Friends of mine, penned a Summary or brief collection of your wor<g ref="char:EOLhyphen"/>thy Acts, and never to bee forgotten Archievements, for your Countrey, this laſt remarkable yeare, as, I hope, I truly ſay, and we effectually finde of our delive<g ref="char:EOLhyphen"/>rance from thoſe calamities which ſome few years ſince we had little reaſon but to expect. I could not
+<pb facs="tcp:159774:3"/> finde a worthier or meeter perſon to whom I might dedicate theſe my labours, then your ſelfe: one prin<g ref="char:EOLhyphen"/>cipall reaſon therefore, that you whoſe name is a terror to the enemies of Chriſt, might alſo be as a Buckler to defend this Work, which I ingeniouſly confeſſe was not compiled by me, wholy for lucre of gain, but out of an ardent and hearty affection I beare to your perſon, and the honour that I and all men ought to acknowledge your due. I know, Sir, that my language hath not fitted a matter of high concernment, which would deſerve the pen of ano<g ref="char:EOLhyphen"/>ther <hi>Tacitus:</hi> But I hope, Sir, that your Honour will as cordially accept the indeavour of the mea<g ref="char:EOLhyphen"/>neſt Souldier vnder you, as of the nobleſt Captain: Thus, Sir, not deſiring to be guilty of writing a large Epiſtle to a ſhort Treatiſe, I ceaſe, and ſhall e<g ref="char:EOLhyphen"/>ver remain, as is my bounden duty,</p>
+            <closer>
+               <signed>Your Honours moſt humble Servant; <hi>S. SHEPPARD.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="acrostic_poem">
+            <pb facs="tcp:159774:3"/>
+            <head>An ACROSTICK on the Name of <hi>that Valiant and Pious Commander, Sir</hi> Thomas Fair<g ref="char:EOLhyphen"/>fax, <hi>Captain Generall of the Forces raiſed by the</hi> Parliament <hi>of</hi> England, <hi>for the ſafety of his</hi> Majeſties <hi>Perſon, the priviledge of Parliament, and liberty of the</hi> Subject,</head>
+            <l>THou whom the <hi>Higheſt,</hi> ſurely did ordain,</l>
+            <l>HIs <hi>Glory</hi> and true <hi>Worſhip</hi> to maintain,</l>
+            <l>OUr endleſſe thanks for aye, is due to thee,</l>
+            <l>MAiſt thou be honour'd by <hi>Poſteritee,</hi>
+            </l>
+            <l>ANd let thy name for ever be inrold,</l>
+            <l>SInce we by thee have comforts manifold.</l>
+            <l>FIght on brave Knight, and never ſtint til Thou</l>
+            <l>ARt wholy Victor, <hi>and haſt made to bow</hi>
+            </l>
+            <l>
+               <hi>ILlegall</hi> Romes <hi>upholders,</hi> who dare vie,</l>
+            <l>
+               <hi>Rul'd by the fiend,</hi> with thoſe who chuſe to die</l>
+            <l>FOr God <hi>and for his Cauſe,</hi> and venture all</l>
+            <l>ALotted them on Earth to make as thrall,</l>
+            <l>
+               <hi>XTorted power, and Laws tyrannicall.</hi>
+            </l>
+            <pb facs="tcp:159774:4"/>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb n="1" facs="tcp:159774:4"/>
+            <head>THE YEARE OF JUBILE: The firſt Book.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Sir</hi> Thomas Fairfax, <hi>Generall of the Forces raiſed by the Parliament of</hi> England, <hi>for the Defence of the true Religion, the ſafety of His Majeſties Perſon, the Priviledge of</hi> Parliaments, <hi>and Liberty of the Sub<g ref="char:EOLhyphen"/>ject, overthroweth and totally routeth the Royall Ar<g ref="char:EOLhyphen"/>my at</hi> Knaſby, <hi>in</hi> Northamptonſhire, <hi>taketh in</hi> Leiceſter, <hi>relieveth the diſtreſſed Town of</hi> Taun<g ref="char:EOLhyphen"/>ton, <hi>beleagured by the Kings Forces, and taketh the Town of</hi> Bridgwater; <hi>by a deſperate ſtorm.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>T was an excellent, and true ſaying of an Ancient and Pious Father, <hi>That the pleaſing aſpects, and allurements of proſperity, ruines more men then, then the frowns and ſtorms of Adverſity;</hi> Which <hi>Adage</hi> I pray the Almighty, prove not authen<g ref="char:EOLhyphen"/>tick by us, and that having by Gods aſſiſtance, overthrowne;
+<pb n="2" facs="tcp:159774:5"/> and almoſt totally touted and ſubdued the common enemy we ſhould at laſt jarr with our ſelves and give our enemies cauſe to rejoyce, that what they could not performe with all machina<g ref="char:EOLhyphen"/>tions and ſtrength wee ſhould doe for them, and ſheath our ſwords in our own bowels. I greatly feare the Almighty hath not yet done with us, and without doubt the enemies hand is deep in our daily diſtractions, whence elſe ariſe our hourely di<g ref="char:EOLhyphen"/>ſturbances, why elſe are blown abroad ſo many rumours—the contents whereof, are deſtructive to our proceedings, let us pray continually, and with fervency to God, to guide and ſtrengthen the hearts of the Parliament, to aid and further their proceedings, and to bring to paſſe the work they intend, which will be for the advancement of his glory, the ſetling of his Truth, and the honour and welfare of his Majeſty, would hee be pleaſed, with them to concur, in the meane time that the Faithfull may have cauſe to rejoyce, and the wicked and mali<g ref="char:EOLhyphen"/>cious, either converted or confounded in heart, by reading and hearing the great works, that God hath wrought for his peo<g ref="char:EOLhyphen"/>ple: and that but in the compaſſe of one yeare, I ſhall proceed to ſet down in order, the wonderfull victories, unparalleld At<g ref="char:EOLhyphen"/>chievements, and unequald proceedings of the right valiant Generall Sir <hi>Thomas Fairfax,</hi> from <hi>Naſby</hi> fight, which was <hi>June</hi> 14, 1645, till late ſitting down before <hi>Oxford, May</hi> the ſecond, 1646.</p>
+               <p>BOth Armies being ſet in Battail array in a great field neet <hi>Naſby,</hi> both ſides very ſtrong and numerous and very ea<g ref="char:EOLhyphen"/>ger of fight; in ſo much that they had not patience to play their Canon, but charged ſpeedily, and with great Reſolution.</p>
+               <p>The Generall of his Majeſties Horſe, that fatall Firebrand to this Iſle, Prince <hi>Rupert</hi> commanded at leaſt two thouſand Horſe more then Sir <hi>Thomas</hi> could make, the Dragoons gave the onſet; flanking the right wing of the enemies horſe, as they charged Sir <hi>Thomas</hi> his right Wing, the foot were commanded not to charge till they came within twelve paces of one ano<g ref="char:EOLhyphen"/>ther, they having charged twice came to puſh of pike, the ene<g ref="char:EOLhyphen"/>mies
+<pb n="3" facs="tcp:159774:5"/> foot gave back, and then the right wing, wherein Sir <hi>Thomas</hi> himſelfe was charged, in the Flanke of the Blew Re<g ref="char:EOLhyphen"/>giment, of the foot of the enemie, who fought reſolutely, moſt of them ſlain, ſome few of them ſurrounded and taken, at this the horſe and foot of the enemie gave back, and the Generall after one charge more became Maſter of the Infantry, and took three thouſand priſoners, the enemies horſe fled, while the King was heard to call after them, ſaying, <hi>Face about once more, and give one change more, and recover the day,</hi> but they would not harken to his exhortation, but like men feare dampt from hea<g ref="char:EOLhyphen"/>ven fled apace, Lievtenant Generall <hi>Crumwell</hi> having them in purſuit twelve miles, the gallantry of thoſe three faithfull Com<g ref="char:EOLhyphen"/>manders, Sir <hi>Thomas Fairfax,</hi> Lieutenant Generall <hi>Crum<g ref="char:EOLhyphen"/>wel,</hi> and Major generall <hi>Skippon,</hi> deſerves to be ingraven on the bed role of fame, and their names to be kept in perpetuall remembrance: The fight continued three houers, the priſo<g ref="char:EOLhyphen"/>ners taken firſt and laſt, were in all 4000, with many thouſands of Armes, the Kings own Piſtoll where with he <note n="a" place="margin">Againſt thoſe that love his Weal.</note> charged, his papers and cabinet of letters himſelfe hardly eſcaping, for the achievement of this great Victory, the praiſe, properly and primarily is due to God, and next to the inſtruments of his glory.</p>
+               <list>
+                  <head>
+                     <hi>A Liſt of the Commanders taken by His Excellencie Sir</hi> THOMAS FAIRFAX, <hi>at</hi> Nasby Fight.</head>
+                  <item>Foure hundred Officers of meane Quality, as Lievtenants, Sergeants, Corporalls, &amp;c.</item>
+                  <item>Foure Colonels,</item>
+                  <item>Many Majors,</item>
+                  <item>Sixty Captains.</item>
+               </list>
+               <p>
+                  <hi>There were taken in the field.</hi>
+               </p>
+               <p>Eight Peeces of Ordnance, whereof two were Demicannon, one whole Culverin, the reſt of the carriages bag and bag<g ref="char:EOLhyphen"/>gage, great ſtore of proviſion.</p>
+               <pb n="4" facs="tcp:159774:6"/>
+               <p> The Souldiers brought to the Generall about 40 Standards and colours, he to reward them for the paſt, and to encourage them for the future gave each man a liberall reward.</p>
+               <list>
+                  <head>The Colours taken were theſe</head>
+                  <item>1 A Lyon Rampant with a Crown.</item>
+                  <item>2 A Lyon Paſſant with a Crown.</item>
+                  <item>3 A Dragon and a Crown.</item>
+                  <item>4 A Percullis and a Crown.</item>
+                  <item>5 The duke of <hi>York's</hi> Standard, and ſix other Colours, foure of the Queens colours white, and double croſſes on each of them, 209 Enſignes with ſtaves.</item>
+               </list>
+               <list>
+                  <head>Slain on both ſides.</head>
+                  <item>Of the enemie according to the neereſt computation 5000,</item>
+                  <item>On the Generals part, 150.</item>
+               </list>
+               <p>On Munday <hi>June</hi> the 16, Sir <hi>Thomas Fairfax</hi> lay before <hi>Leiceſter</hi> and ſent in a Summons to the Towne, to require the Governour to ſurrender it to him for the uſe of the Parliament; and putting it to them to conſider how the King was routed, and ſhewing them what uſe they might make of that Clemen<g ref="char:EOLhyphen"/>cy, with divers other very gallant expreſſions to the ſummons, to advertiſe them how much better it was for them to ſurren<g ref="char:EOLhyphen"/>der, then to force him to take it by ſtorming.</p>
+               <p>To this ſummons the Enemy ſent a negative Anſwer, poſi<g ref="char:EOLhyphen"/>tively this, that they would not ſurrender it; whereupon Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> called a Councell of Warre to conſult about the Storming of it, which was ſoon concluded on; that they ſhould prepare all things in readineſſe to round it the next day: which was done with all expedition not loſing any time.</p>
+               <p>So they fell preſently to raiſing of Batteries, and doing all things that were neceſſary for the ſtorming thereof according as they had appointed, and continued providing every thing that was requiſite for the doing thereof, to be in a readineſſe to batter it the next day, and ſent into the Country thereabouts for ſuch helpes as were neceſſary for the worke, which went on with great ſpeed both night and day; ſo deſirous wee are to have
+<pb n="5" facs="tcp:159774:6"/> a ſpeedy end of the worke that there may be an end of theſe warres if poſſible.</p>
+               <p>On Tueſday the 17th. of <hi>June,</hi> wee drew downe our Ord<g ref="char:EOLhyphen"/>nance and playd with our Peeces againſt the Towne, we ſtor<g ref="char:EOLhyphen"/>med it playing with our Ordnance very hot on the <hi>Newarke</hi> ſide, which we conceived was their greateſt ſtrength? And in ſhort time we made a breach in their workes, which ſtrucke ſuch a terror into the hearts of the Enemy, that the Governour ſent to us to deſire a Parley, and offered to ſurrender upon very faire termes; as upon capitulation ſhould be agreed upon.</p>
+               <p>To this requeſt (Sir <hi>Thomas Fairfax</hi> being willing to ſave the ſpilling of innocent blood as much as may be) he aſſented: and promiſed ſpeedily to ſend in Commiſſioners for the treaty, and called a councel of War, and it was agreed that Colonell <hi>Pickering</hi> and Colonell <hi>Reinſborough</hi> ſhould goe into <hi>Leiceſter</hi> to treat with the governour about the ſurrendering the ſaid Ga<g ref="char:EOLhyphen"/>riſon to Sir <hi>Thomas Fairfax.</hi> And accordingly a ſafe conduct was deſired for them, which being ſent they went to Capitulate with the Governour about the ſurrender thereof.</p>
+               <p>In the meane time Sir <hi>Thomas Fairfax</hi> was not idle, nor did he loſe any time; but went on providing and furniſhing him<g ref="char:EOLhyphen"/>ſelfe with Pittars, Carts, Hay, Granadoes. Ladders, and other things neceſſary for ſtorming; reſolving to fall on at their re<g ref="char:EOLhyphen"/>turne, in caſe that they ſhould not agree, not knowing how things might fall out, during which time there was both great paynes and care taken by all in their places for the going on in the ſayd worke.</p>
+               <floatingText xml:lang="eng" type="articles">
+                  <body>
+                     <pb n="6" facs="tcp:159774:7"/>
+                     <head>The ARTICLES for the ſurrender of the Town and Garriſon of <hi>Leiceſter</hi> to Sir <hi>Thomas Fairfax,</hi> for the uſe and ſervice of the Parliament, agreed on <hi>June</hi> the 18th. 1646.</head>
+                     <p>Between Collonel <hi>Pickering,</hi> and Collonell <hi>Reinsborough.</hi>
+                     </p>
+                     <p n="1">1 <hi>THat the Lord</hi> Loughborough <hi>ſhall have quarter granted him, and have protection for his Perſon to be ſafely conveyed to the Garriſon of</hi> Aſhby de la Zouch.</p>
+                     <p n="2">2 <hi>That all field Officers, Collonels, Lieutenant Collo<g ref="char:EOLhyphen"/>nels, Serjeants, Majors, and Captains, and Lieutenants of Horſe, (but not of Foot) ſhall march away with their owne particular ſingle horſe and armes, with protections for their owne perſons.</hi>
+                     </p>
+                     <p n="3">3 <hi>That all the reſt of the Officers ſhall be conveyed ſafely to the Garriſon of</hi> Lichfield <hi>with Staves only, and no other weapons in their hand.</hi>
+                     </p>
+                     <p n="4">4 <hi>That all common Souldiers have quarter onely for their lives, and be conveyed to</hi> Lichfield <hi>without any other weapons, ſave onely ſtaves in their hand.</hi>
+                     </p>
+                     <p n="5">5 <hi>That before</hi> 10 <hi>of the clocke the ſaid morning</hi> Iune <hi>the</hi> 18. <hi>the Governour of the Towne, and the Lord</hi>
+                        <pb n="7" facs="tcp:159774:7"/> Loughborough, <hi>and all the reſt of the Officers, and Souldiers march out of the Garriſon according to the agreement aforeſaid.</hi>
+                     </p>
+                     <p n="6">6 <hi>That Sir</hi> Thomas Fairfax <hi>be permitted to enter in at</hi> 10 <hi>of the clock the ſaid</hi> Wedneſday <hi>morning afore<g ref="char:EOLhyphen"/>ſaid, with his Forces, and take poſſeſsion of the Garriſon.</hi>
+                     </p>
+                     <p n="7">7 <hi>That all the Peeces of Canon, great and ſmall now in the Garriſon of</hi> Leiceſter, <hi>be left to Sir</hi> Thomas Fairfax.</p>
+                     <p n="8">8 <hi>That all the Armes, and Ammunition now in</hi> Lei<g ref="char:EOLhyphen"/>ceſter <hi>be left to Sir</hi> Thomas Fairfax, <hi>ſave onely what is agreed to for the Officers of Horſe aforeſaid.</hi>
+                     </p>
+                     <p n="9">9 <hi>That all the Proviſions, Colours, Bag and Baggage be alſo left to Sir.</hi> Thomas Fairfax.</p>
+                     <p n="10">10 <hi>That all the Horſe (ſave onely thoſe excepted for the Officers aforeſaid) that are in the Garriſon of</hi> Lei<g ref="char:EOLhyphen"/>ceſter <hi>be delivered up to Sir</hi> Thomas Fairfax, <hi>for the ſervice of the Parliament.</hi>
+                     </p>
+                     <p n="11">11 <hi>That all the Officers and Souldiers have quarter for their lives.</hi>
+                     </p>
+                     <p n="12">12 <hi>That all the Priſones of Warre that are in</hi> Leice<g ref="char:EOLhyphen"/>ſter <hi>at the ſame time, be releaſed and ſet free to ſerve the Parliament.</hi>
+                     </p>
+                     <p>With theſe Articles the Commiſſioners returned to Sir <hi>Thomas Fairfax,</hi> certifying further how joy<g ref="char:EOLhyphen"/>full that poore Towne of <hi>Leiceſter</hi> was at the hea<g ref="char:EOLhyphen"/>ring of the ſaid agreement, and that they ſhould be rid of the Cavaliers.</p>
+                     <p>Thus you ſee the Lord doth wonderfully for us, above the reach of mans wiſdome. Truth we cannot but much admire the goodneſſe of Almighty God
+<pb n="8" facs="tcp:159774:8"/> tous, in doing ſo great things for us, we cannot aſ<g ref="char:EOLhyphen"/>cribe it to any but to the hand of God Almighty, who is the Lord of Hoſte.</p>
+                     <p>And it is to be admired to ſee the cariage of our Generall, and indeed all the Officers, how lovingly wee agree, how full of Courage all men are, both Officers and Souldiers when we are in array, what heavenly expreſſions, there is from all 3 and our Ge<g ref="char:EOLhyphen"/>nerall doth carry himſelfe in ſo excellent a manner that it rowſed up the Courage of all that ſee him; and the like alſo did Major <hi>Skippon,</hi> who by reaſon of his wound could not be herein the taking of <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> but we hope that hee will recover; for in all Deſignes, by his wiſdome and Valour, his very name is a terrour to the Enemy.</p>
+                  </body>
+               </floatingText>
+               <list>
+                  <head>
+                     <hi>A Liſt of what was taken at</hi> LEICESTER.</head>
+                  <item>14 Pieces of Ordnance.</item>
+                  <item>30 Colours.</item>
+                  <item>2000 Armes.</item>
+                  <item>500 Horſe.</item>
+                  <item>50 Barrels of Gun-powder.</item>
+               </list>
+               <p>And all their Ammunition and Proviſions with bag and baggage.</p>
+               <p>After this, his Excellencie Sir <hi>Thomas Fairfax</hi> having re<g ref="char:EOLhyphen"/>freſhed his Army, with ſome few dayes reſt, reſolved for to re<g ref="char:EOLhyphen"/>lieve the Town of <hi>Taunton,</hi> which was ſtraitned and beſieged
+<pb n="9" facs="tcp:159774:8"/> by a part of the Royall Armie, under the command of <hi>Goring,</hi> the Generall advanced to <hi>Buminſter,</hi> twelve miles from <hi>Dor<g ref="char:EOLhyphen"/>cheſter,</hi> where he fell on there are of the enemie, took priſoner a Lievtenant, and divers others of Sir <hi>Robert Welches</hi> Troop, another party the generall ſent to get between <hi>Sherborn</hi> and <hi>Somerton,</hi> and to fall on their Van, which they accordingly did, and took ſome priſoners, the enemy flying broke down the bridges after them, to hinder purſuit, nevertheleſſe, the Generall ſent out parties after them, to learn whether they in<g ref="char:EOLhyphen"/>tended, and ſuch was the love of his Souldiers to the diſtreſſed Townſmen of <hi>Taunton,</hi> that they willingly without the leaſt inſtigation, marched 60 miles in five dayes, the Enemie hea<g ref="char:EOLhyphen"/>ring of their approach, raiſed their ſiege, and departed from be<g ref="char:EOLhyphen"/>fore the Town, and Sir <hi>Thomas</hi> took poſſeſſion thereof, for the uſe of the King and his Parliament.</p>
+               <p>After this, the Generall with his victorious Armie advan<g ref="char:EOLhyphen"/>ced towards <hi>Bridgewater,</hi> intending the reducement thereof, but for as much as he heard and thought, the Town was ſo well ſtored with victuall, as that they might be able to endure a long ſiege, he reſolved to ſtorme it, was unanimouſly agreed unto <hi>July</hi> 21, at two of the clock in the morning the Generals Regiment began the ſtorme, which they proſecuted with ſuch vigour, that they ſoon got on the top of the works, and there diſplayed their colours, gained the peeces that before plaid upon them, and let down the bridge, whereupon with a Com<g ref="char:EOLhyphen"/>pany of horſe, entered that part of the Town, and took 500 priſoners, which he placed, for the preſent, in the Church, and here let all men take notice, and admire the good providence of God, that though they fiercely ſtormed, and were as reſolute<g ref="char:EOLhyphen"/>ly repulſed for the ſpace of an hower, yet the Generall loſt but twenty men, the obſtinate and malicious enemie were ſo far from relenting or pittying their own miſery, that with Gra<g ref="char:EOLhyphen"/>nadoes they fired that part of the Town which was taken, the fire ſo far prevailing, that three houſes were not left ſtanding together, the Generall enraged, and withall grieved at this their villanie, ſummoned them once more, but they were ſuch
+<pb n="10" facs="tcp:159774:9"/> deep enemies to themſelves, and ſo hated their own welfare, that they would not ſo much as hear the ſummons, nor yet re<g ref="char:EOLhyphen"/>turn any anſwer, whereupon the Generall commanded to ſtorme on this ſide, the morrow morning that valiant and ex<g ref="char:EOLhyphen"/>perienced Commander Collonel <hi>Maſſey.</hi>
+               </p>
+               <p>The next morning by break of day, they ſtormed that part, and but that the tide was up, had gained the Town, now leaſt that the guiltleſſe ſhould ſuffer with the nocent, the Generall ſent a Trumpet to the Governour, willing him to let all wo<g ref="char:EOLhyphen"/>men and children come forth of the Town, which was accor<g ref="char:EOLhyphen"/>dingly done, then began the great Guns and Morter-peeces, <hi>thoſe fatall Inſtruments of ruine,</hi> to play againſt the Town, and fired it in ſome places, and the fire increaſed ſo, that all was on a flame on a ſodain, this ſo aſtoniſhed the Inhabitants, that, as amazed they ran up and down, when one <hi>Elliot</hi> came run<g ref="char:EOLhyphen"/>ning to the Generall, and deſired a parley, this man was the chiefe occaſion, by whoſe wicked Oratory and perſwaſion the Townſmen became ſo obſtinate, the Generall returned an<g ref="char:EOLhyphen"/>ſwer, that the laſt night he proffered to treat with the Gover<g ref="char:EOLhyphen"/>nour, and he refuſing, it was now, <hi>But Juſtice to make him ſmart with the rod he had gathered.</hi> and that he would admit of no Treaty, yet if he would accept of mercie he ſhould have it, when ſodainly, all the Souldiers cryed out, <hi>Mercie for the</hi> 
+                  <note place="margin">
+                     <hi>Bridgwater</hi> taken.</note> 
+                  <hi>Lords ſake,</hi> ſo it was agreed on, and quarter they had for their lives, and the generall gave them liberty and exhorted them to quench the fire, leaſt the Town ſhould be utterly ruinate, this ſtrong Town and ſtubborn people reduced to obedience, the Generall reſolveth for other Exploits.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="11" facs="tcp:159774:9"/>
+               <head>CHAP. II. <hi>The Generall comming to</hi> Dorcheſter, <hi>the Boors or Club-men of</hi> Dorſetſhire <hi>and</hi> Wiltſhire, <hi>with their Leaders came unto him, deſiring a paſſe from him, and that they might be allowed, to diſpatch ſome ſe<g ref="char:EOLhyphen"/>lected perſons with Petitions to His Majeſty and the Houſes of Parliament, the routing of</hi> Goring <hi>by Sir</hi> Thomas Fairfax <hi>Forces neer</hi> Langport <hi>in</hi> So<g ref="char:EOLhyphen"/>merſetſhire, <hi>the Contents of the Club-mens Peti<g ref="char:EOLhyphen"/>tion.</hi>
+               </head>
+               <p>AFter the gaining of <hi>Bridgwater,</hi> Sir <hi>Thomas</hi> after ſe<g ref="char:EOLhyphen"/>verall marches, came to <hi>Dorcheſter,</hi> where being ari<g ref="char:EOLhyphen"/>ved, there reſorted unto him foure Agents from the Clubmen of <hi>Dorſet</hi> and <hi>Wiltſhire,</hi> who as if the two ſtrong parties already in Armes, were not of ability, ruinating <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hemſelves, to deſtroy this poor, and more then miſerable Kingdom: Thoſe fellows of <hi>Dorſet</hi> and <hi>Wiltſhire,</hi> roſe in Arms to make a third party of Newters, their pretence was to defend themſelves from being plundered or annyed, by any <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide, either of the Kings or Parliaments, they wore white ri<g ref="char:EOLhyphen"/>bands in their hats, with <hi>PEACE</hi> and <hi>TRUTH</hi> inter<g ref="char:EOLhyphen"/>woven, they were Armed, ſome with Muskets, ſome with Forks and Staves, and ſome with Clubs: Their names, <note n="b" place="margin">Clubmen.</note> ori<g ref="char:EOLhyphen"/>ginall, or rather as <note n="c" place="margin">Britanicus.</note> one wittily and truly ſaith Knaves of Clubs, to the generall Maſter <hi>Hollis,</hi> the chiefe ſpeaker decla<g ref="char:EOLhyphen"/>red his buſineſſe, which was to procure a paſſe from him, for <note n="d" place="margin">Theſe to the <hi>King.</hi> Doctor <hi>Henry Gotch.</hi> Mr. <hi>Tho: Brow<g ref="char:EOLhyphen"/>all</hi> a Divine. <hi>Iohn Saint Loe. Peter Hoskins,</hi> Eſquire. M. <hi>Tho: Young</hi> Attourney. M. <hi>Robert Paw<g ref="char:EOLunhyphen"/>let</hi> to the <hi>Par<g ref="char:EOLhyphen"/>liament.</hi> Mr. <hi>Melchiſe<g ref="char:EOLhyphen"/>deck woltham.</hi> M. <hi>Rich: Hook,</hi> Divines. <hi>Tho. Trenchard Rob: Culliford,</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſquires. <hi>George Hawles, Rich. Newman,</hi> Gentlemen.</note> perſons ſelected to goe to the <hi>King</hi> and <hi>Parliament</hi> with Petitions, After ſome debate the Generall returned this An<g ref="char:EOLhyphen"/>ſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>Although the paper brought to me, being not ſubſcribed, cannot challenge a return, yet to clear my ſelfe from any averſ<g ref="char:EOLhyphen"/>neſſe
+<pb n="12" facs="tcp:159774:10"/> to the ſatisfaction of the Country, who are pretended to be intereſſed in theſe Petitions, I return this.</p>
+                     <p>That my affections, and the affections of this Armie, are as much inclined to peace as any mens whatſoever, and wee are obliged to proſecute this war, for no end, but for the eſtabliſh<g ref="char:EOLhyphen"/>ment of a firme and happie Peace, by oppoſing the enemies thereof, and that I ſhall be ready ſo far as concerns me, to fur<g ref="char:EOLhyphen"/>ther all lawfull and fit means to procure it, but having ſeen the Petitions, for the conveyance of which a Letter is deſired, I muſt profeſſe my ſelfe not to be ſo well ſatisfied with ſome things contained in them, as to concur to their delivering by any Act of mine.</p>
+                     <p>In particular, that a ceſſation is deſired, by Letters written by the King and Queen, taken at the late battail of <hi>Naſby,</hi> it evidently appears that contracts are already made, for the bringing in of ten thouſand French, and ſix thouſand I<g ref="char:EOLhyphen"/>riſh.</p>
+                     <p>It is further deſired, that the Garriſons in theſe parts where<g ref="char:EOLhyphen"/>of there are Seaports, ſhould be delivered up to the Petitioners, which to grant, were for the Parliament to quit part of the Truſt repoſed in them by the Kingdom, and conſidering thoſe forreign preparations, to run very great hazards to theſe parts, to themſelves and the whole Kingdom.</p>
+                     <p>Thirdly, it is propounded, that liberty be given to all Soul<g ref="char:EOLhyphen"/>diers, to disband and return to their own homes, if they deſire <note place="margin">An unreaſona<g ref="char:EOLhyphen"/>ble requeſt.</note> it, which may with equall juſtice be deſired, by all parts of the Kingdom, <hi>and ſo the Parliament made unable to mannage the war, before peace be ſetled.</hi>
+                     </p>
+                     <p>Theſe conſiderations with ſome other, yet to be debated, will not allow me to grant this deſire of the letter.</p>
+                     <p>But as for that part of the Petition, that declares the grie<g ref="char:EOLhyphen"/>vance of the Countrey by plunder and violence, committed ei<g ref="char:EOLhyphen"/>ther by Garriſons or Armies, I doe hereby promiſe and under<g ref="char:EOLhyphen"/>take, for the Garriſons and Armies under the command of the Parliament, that whatſoever diſorders are committed by them, upon complaint, making known the offenders and the
+<pb n="13" facs="tcp:159774:10"/> offence, juſtice ſhall bee done, and ſatisfaction given, I alſo ſhall endeavour that the Parliaments Garriſons may be regu<g ref="char:EOLhyphen"/>lated according to any reaſonable agreement with the County, and without doubt the Parliament wil cauſe them to be ſlight<g ref="char:EOLhyphen"/>ed, ſo ſoon as the condition of thoſe parts and the publike good ſhall permit, and that the Armie under my command ſhall be ordered, as may be moſt for the good of theſe Counties, and the whole Kingdom, of which ſome reaſonable teſtimony is al<g ref="char:EOLhyphen"/>ready given, in their quiet and orderly paſſage, through theſe and other Countries, without many of thoſe complaints that uſually follow Armies.</p>
+                     <p>I further requeſt that in publiſhing this my anſwer, all aſſem<g ref="char:EOLhyphen"/>bling the people to publike Randevouze may be forborne, that copies hereof may be diſperſed to ſeverall Pariſhes, and that the County may be acquainted therewith.</p>
+                     <closer>
+                        <signed>THOMAS FAIRFAX.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Wiſdome</hi> and <hi>Valour,</hi> are two ſingular and extraordinary gifts of God, and he that hath the one hath a greater gift then hee that hath the other, I mean the gift of <hi>wiſdome: Ulyſſes</hi> words prevailed more with the <hi>Grecian</hi> Princes then <hi>Ajax</hi> Deeds, but where both are injected, there the man is incom<g ref="char:EOLhyphen"/>parable, and fit to undergo ſo great a Task as our famous Ge<g ref="char:EOLhyphen"/>nerall doth, <hi>Who not onely by valour quelleth and paſheth to pie<g ref="char:EOLhyphen"/>ces the ſtrength of the Enemy, but alſo by his Prudence, appeaſeth and mitigateth the fury of ſome, that ſpurs on by their own raſh<g ref="char:EOLhyphen"/>neſſe, after to do things inconvenient and deſtructive to them<g ref="char:EOLhyphen"/>ſelves:</hi> This I am conſtrained to ſay, in reference, to the mode<g ref="char:EOLhyphen"/>rate, free and ingenious anſwer Sir <hi>Thomas</hi> ſent the Club-men.</p>
+               <p>AFter the Diſpatch of Maſter <hi>Hollis,</hi> the Generall advan<g ref="char:EOLhyphen"/>ced, and after ſome marches; not without appoſition, came to long <hi>Sutton</hi> in <hi>Somerſetſhire,</hi> where being ari<g ref="char:EOLhyphen"/>ved, a Councel of War was called to debate on this Quere, whither to draw up before <hi>Langport,</hi> or withdraw towards
+<pb n="14" facs="tcp:159774:11"/> 
+                  <hi>Sherborn</hi> or <hi>Evill,</hi> when unlookt for the Enemy gave them the alarm, under the command of <hi>Goring,</hi> whereupon the Gene<g ref="char:EOLhyphen"/>rall drew out of his forces of Foot.</p>
+               <p>
+                  <hi>Weldens, Herberts, Ingleſbyes, Forteſcues,</hi> Major Generall <hi>Ruſſels, Hamonds</hi> and <hi>Rainſboroughs</hi> Regiments, all the Horſe but three Regiments of Sir <hi>Robert Pie,</hi> and Col. <hi>Sheffield</hi> were with <hi>Maſſie.</hi>
+               </p>
+               <p>With theſe Forces they drew into the Field, about ten of the clock in the morning, the Enemy had the advantage both of the Hill and Wind, the Generall commanded the Canon to play, which did extraordinary execution, after the Horſe char<g ref="char:EOLhyphen"/>ged Major <hi>Bethel,</hi> gave the onſet, his firſt charge routed them, <note place="margin">
+                     <hi>Goring</hi> routed.</note> but being over-powred, he retreated to Major <hi>Diſbrough,</hi> who commanded the Generals Regiment, and charging them again, he ſo diſordered them that they could never rally againe, part of the Enemies got in a diſordered manner into <hi>Langport,</hi> the reſt fled, ſome into the Corn, ſome into Woods for ſhelter, in this fight the whole foot were taken or killed; there were alſo ta<g ref="char:EOLhyphen"/>ken thoſe:</p>
+               <list>
+                  <item>The Ordance they had;</item>
+                  <item>Two Colonels of Horſe, <hi>Slingſby, Hevingam.</hi>
+                  </item>
+                  <item>
+                     <hi>Beirtridge,</hi> Lievtenant Generall of the Ordnance,</item>
+                  <item>Some other Lievtenants, Colonels and Majors,</item>
+                  <item>1200 Priſoners.</item>
+               </list>
+               <p>And the gaining of this, through the aſſiſtance of God, loſt the Generall but twenty men, and whereas wee ſpake of erſt, the Petitions the Clubmen intended for the Kings Majeſty and the Honourable Houſes of Parliament, wee will here inſert it word for word, as the Malignant ſpirit of the Authour con<g ref="char:EOLhyphen"/>trived it.</p>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <pb n="15" facs="tcp:159774:11"/>
+                     <head>
+                        <hi>To the</hi> Kings <hi>moſt Excellent Majeſty, and to the Right Honourable</hi> Lords <hi>and</hi> Commons <hi>aſſembled in</hi> Parliament, <hi>at</hi> Weſtminſter.</head>
+                     <p>WE the Gentlemen, Free-holders, and others, all Pro<g ref="char:EOLhyphen"/>teſtants <note place="margin">The Club<g ref="char:EOLhyphen"/>mens Petition</note> and peaceable Subjects, of the County of <hi>Dor<g ref="char:EOLhyphen"/>ſet, Somerſet,</hi> and <hi>Wiltſhire,</hi> beholding with unex<g ref="char:EOLhyphen"/>preſſable grief of our ſouls, the many &amp; terrible ſhakings of that well built State of <hi>England,</hi> which our wiſe &amp; carefull fathers left unto us, that their Generations after them under the bleſſing of God might keep it up for ever, are moſt humble ſuitors to your ſacred Majeſty, and the ſaid Honourable Lords and Com<g ref="char:EOLhyphen"/>mons, that our ſo long and ſo much tottering Kingdom, may ſpeedily be repoſed upon her ſinne foundation, which we con<g ref="char:EOLhyphen"/>ceive to be, the free and full conveening in Parliament of your Majeſties Royall Perſon, and all the Lords together with the Commons, as well as all them, which have heretofore been du<g ref="char:EOLhyphen"/>ly elected to this Parliament, and do yet ſurvive, as others who ought to be ſelected thither made void by death, your Maje<g ref="char:EOLhyphen"/>ſties Royall Progenitors the Kings and Queenes of this Iſle, environed with their free and full multitude of Counſellours from all parts thereunto, have ever been that Rock of ſafety whereon the good providence of God, for ſo many yeers paſt, hath eſtabliſhed this Realm, in deſpipht of all former tempeſts, that have beaten againſt it, therefore this the greateſt of all that ever roſe upon us, or our Anceſtors, we cannot but with our in<g ref="char:EOLhyphen"/>flamed devotions, <hi>to ſuperſtition,</hi> to God, deprecate out of all mens hearts, all thoughts of ſaving us, rather upon ſome new made grhunds, then that of the old one which God yet never ſuffered to fail us, or of limiting our Refuge <hi>(fine Sophi<g ref="char:EOLhyphen"/>ſtry)</hi> to part of our Rock when our advantage and help muſt be the more, when we had the whole to help <hi>(you had reaſon to rejoyce that the ill, or part of the whole departing the reſt re<g ref="char:EOLhyphen"/>mayned, to mayntain the Goſpell of Chriſt and the liberty of the Subject)</hi> as the moſt glorious body that is viſible in <hi>England</hi> is
+<pb n="16" facs="tcp:159774:12"/> the Parliament of <hi>England,</hi> ſo, who can think it ſo perfect, who can hope to find it ſo ſtrong to work for the honour, peace and happineſſe of <hi>England,</hi> as when it conſults in full peace of its Royall Head, and with all the other good members thereof, and with all ardency of our affections, wee kneel unto your Majeſties Kingly wiſdome, and to the wiſdom of the ſaid Ho<g ref="char:EOLhyphen"/>nourable Lords and Commons, that for the ſpeedy Integrati<g ref="char:EOLhyphen"/>on, both in Head and members of this body, which is the ſoule of <hi>Englands</hi> welfare your Parliament <hi>(the King believes it not)</hi> It may graciouſly pleaſe your Majeſty, and the ſaid Honoura<g ref="char:EOLhyphen"/>ble Lords and Commons to ſend, they unto your Majeſty, and your Majeſty to them, your ſeverall, that is to ſay, your Maje<g ref="char:EOLhyphen"/>ſties and their Commiſſioners, and to haſten them to meet, to treat and agree <hi>(as at Uxbridge)</hi> of time and place, when and where your Majeſty ſhall be with your Houſes of Lords and Commons, both of them in the beautifull fulneſſe of all the members, wee moſt humbly beſeeching, that no place may be thought, for this purpoſe like <hi>Gideons</hi> fleece <hi>(a fine policy to draw away the members of Parliament, from a place of ſecurity, to a place where they may be ſubject to the tyranny, and ore-ſway<g ref="char:EOLhyphen"/>ing Power of the Royall Party)</hi> either the onely ſpot <note n="p" place="margin">Explain your meaning.</note> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that ſhall be capable of the dew of heavenly bleſſing, and that all the Land beſides will be dry upon any Town or City; God will give down his dew, and for the ſecurity both of your Majeſty and the honourable Houſes, in any place we ſhall lay down ourlives <hi>(your deeds confute your words)</hi> and that which is left of our eſtates, to your Majeſty for the houſes, to the houſes for your Majeſty, and that we and the whole Realme, may no longer want the benefit of thoſe Laws which are well knowne to us, by the undoubted ſeals of Kings, Lords and Commons upon them, and may not ſtill ſtarve and bleed our ſelves to death, for ſuch as could not yet paſſe the threefold teſt, we humbly pray that the comfortable beams of juſtice, which have been ſo long obſcured and clouded, may at length breake forth to the refreſhment of this drooping Kingdome, now grown weary and weak through long impunity of all ſorts of
+<pb n="17" facs="tcp:159774:12"/> ſin and injury, and that Judges and Officers may be authorized and ſecured in their adminiſtrations of Law and Right to all people <hi>(if this hath not been, your ſelves have occaſioned it, the two Houſes of Parliament proſtrates their lives and fortunes, to to purchaſe you, and all Counties this)</hi> and that all field Armies may be diſſolved, all controverſies; for which they have been <note place="margin">☞</note> raiſed: being laid down to be awakened and determined, or to ſleep and dye undecided, in the free and full Parliament, and that all unneceſſary Gariſons be ſlighted, and ſuch as ſhall be thought fit and neceſſary, either by your Majeſtie or the ſaid Honourable Lords and Commons, to be continued, to be truſted in ſome hands of thoſe Counties wherein they are ſcited, the Truſtees to be equally named by your Majeſty and the ſaid Honourable Lords and Commons, and no Truſtee to deliver up his charge, but by the joynt aſſent of Kings, Lords and Com<g ref="char:EOLhyphen"/>mons, untill wee may ſee that happy day <note n="q" place="margin">Wil your in<g ref="char:EOLhyphen"/>famous ſediti<g ref="char:EOLhyphen"/>on, and un<g ref="char:EOLhyphen"/>lawfull riſing produce it.</note> when the King, Lords and Commons ſhall declare, that there is no more uſe of ſuch wariſhneſſe between the King and his people; and wee beſeech your Majeſties Princely clemency, and the fatherly and fraternall love of the ſaid Lords and Commons, to all their e<g ref="char:EOLhyphen"/>quall and inferiour Countrimen, for the ſweet and neceſſary condiſcention for all that have been in arms, or otherwiſe aſſi<g ref="char:EOLhyphen"/>ſtant to this deſtructive war, and to all that are impriſoned by any occaſion of it, and to all that abſent themſelves from their dwellings upon feare thereof <hi>(you petitioned for juſtice ere-while, recant you now)</hi> may be permitted to returne home, and all men to enjoy their Liberties and Properties, and their wonted freedome of commerce through the whole Realme.</p>
+                     <p>Laſtly, we humbly beſeech your Majeſties moſt tender heart and the feeling affections, of the ſaid Honourable Lords and Commons, to their poore and bleeding Countrimen, to take notice of the many importunate Agitants, which have beaten us together, in theſe our unuſuall meetings, not onely the wor<g ref="char:EOLhyphen"/>ſhip <hi>(a fair Cloak)</hi> of God but the honour of your Majeſtie, the native liberty and right of the Subject, the wealth and
+<pb n="18" facs="tcp:159774:13"/> ſtrength of the whole Land, and whatſoever is vertuous, or laudable in it ſelf, but alſo our intolerable ſlavery, under a moſt inſolent Souldiery <hi>(this is notoriouſly knowne, as alſo the reſt of the allegations to be falſe and ſuborn'd)</hi> an univerſall poverty by endleſſe contribution, and plunder the curſed ſacriledge <hi>(the Idoll of the Commons) the common Prayer Book taken away)</hi> done unto holy places, defacings, and ruinings, the grievous perſecutions of grave and reverend Miniſters, the many blou<g ref="char:EOLhyphen"/>dy, tragicall, inhumane rapes and murthers that have beene acted, and more are threatned upon peaceable Subjects, all ſorts of wickedneſſe before every where impudent and ſhameleſſe; in a word whatſoever is dreadfull, or miſerable to us, is ſtill growing upon us, under the reign of this Civill <hi>War,</hi> by all theſe ſo many, and ſo powerfull conſiderations wee have beene drawn together, as we conteſt the ſearcher of all hearts, not for ſedition, but the publick peace; <hi>ha, ha, he,</hi> and in order thereto together, to meet in this our humble Petition, to your Maje<g ref="char:EOLhyphen"/>ſty, and the ſaid Honourable Lords and Commons, and to put our ſelv<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> in a generall readineſſe at the City of the County, to purſue all robbers and murtherers <hi>(one Thiefe attach another)</hi> under whoſe continuall oppreſſions we could no longer endure; We therefore humbly pray and beſeech your Majeſty (and the ſaid Honourable Lords and Commons) and all our Superiours and fellow Subjects, that we may be mercifully and favourably judged, in <hi>(theſe your ſeditious and abominable proceedings)</hi> theſe our innocent intentions, and according to our capaci<g ref="char:EOLhyphen"/>ties, and our wiſeſt endeavours, we continually pray, to the God of peace and love that we may be revived, and the whole Realme by a ſpeedy and indiſſoluble union, of the ſtrength and ſaving health of <hi>England)</hi> next under his heavenly Majeſty, your ſacred Majeſty, the right honourable Lords. and the ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons, in a full and free, which cannot be, but an happie Parliament.</p>
+                  </body>
+               </floatingText>
+               <p>Thus far the Author of this malevolent Petition, which be<g ref="char:EOLhyphen"/>cauſe I have already ſomwhat canvaſed, and all wiſe men read<g ref="char:EOLhyphen"/>ing it wil eaſily behold, the main end and ſcope of theſe club-mens
+<pb n="19" facs="tcp:159774:13"/> Petitions and intentions without an interpreter, I ſhall here ceaſe to ſay more of it, I return to my Hiſtory.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Sir</hi> Thomas Fairfax <hi>receiveth the Town of</hi> Bathe <hi>by compoſition: A Narration of the</hi> Kings <hi>entertain<g ref="char:EOLhyphen"/>ment at</hi> Huntington, <hi>and of the carriage of his</hi> Ar<g ref="char:EOLhyphen"/>mie <hi>there.</hi>
+               </head>
+               <p>HIS Excellencie the Parliaments Generall, intending the reducement of <hi>Briſtol,</hi> a Town of great concern<g ref="char:EOLhyphen"/>ment, after ſome dayes eaſie march, ariving neer <note place="margin">
+                     <hi>Sherburn</hi> Ca<g ref="char:EOLhyphen"/>ſtle blocked up</note> 
+                  <hi>Sherborn,</hi> and reſolving to uſe all the means of man, not doubting of Gods aſſiſtance, to put a period to the ſad, and to be bewailed civill war, reſolved to ſend one party to <hi>Sher<g ref="char:EOLhyphen"/>born,</hi> to block it up, at leaſt til time and ability ſerved to pro<g ref="char:EOLhyphen"/>ceed more violently againſt it, he therefore appointed Collo<g ref="char:EOLhyphen"/>nel <hi>Pickering, a man right valiant and pious,</hi> to proſecute the intention as aforeſaid.</p>
+               <p>A Councel of War being called, to conſult what deſigne would be moſt advantagious, moſt ſafe and ſpeedy, for the reducing of <hi>Briſtol,</hi> it was concluded, that the taking of <hi>Bathe,</hi> which would elſe be an obſtacle, was firſt moſt requiſite, and if not made a Gariſon, yet it might ſerve for a ſtrong Quarter, and be much aſſiſtant to their Deſigne.</p>
+               <p>The Generall approved the advice, and reſolved to proſecute it, and the next day with his whole Army advanced to <hi>Wels,</hi> where being arived, he heard news very much unexpected, to wit, that their trouble of beſieging, or danger of ſtorming the Town of <hi>Bath,</hi> would not be required, for the Enemy had quitted the place, and unconſtrained the reaſons theſe.</p>
+               <p>The Townſmen not willing to bear Armes, nor yet to har<g ref="char:EOLhyphen"/>bour Souldiers that came from <hi>Briſtoll,</hi> dreading infection, the plague being then and had been before a long time, there very
+<pb n="20" facs="tcp:159774:14"/> hot, and raging, the ſouldiers they had of their own being too few to man the Works, the Governour Sir <hi>Thomas Bridges,</hi> reſolved to quit it, which thing hee had ſurely done, had there not arived at that preſent an 100 men from Prince <hi>Rupert,</hi> with orders willing him to ſtay and defend the Town. Sir <hi>Themas</hi> upon probability of quitting it, thought fit to ſpare his Foot an unneceſſary march, and ſent two Regiments of Horſe, comman<g ref="char:EOLhyphen"/>ded by Col. <hi>Rich</hi> and two Troops of Dragoons with Col. <hi>O<g ref="char:EOLhyphen"/>key,</hi> to take a view of the condition of the Town, that he might do as occaſion ſerved: They came neere the Towne and were oppoſed, when they preſently Summoned, but the Summons ſlighted, they reſolve to enter by force, the Dragoons encoun<g ref="char:EOLhyphen"/>tring the Enemy on the Bridge, prevailed againſt them and gained it, and ſetting on fire the South weſt gate burnt it down, which the Governour ſeeing, was willing to ſurrender, condi<g ref="char:EOLhyphen"/>tionally, that hee and his Officers might have liberty armed to march to <hi>Briſtoll,</hi> which was granted them, and they ſpeedily departed, leaving behind them many ſouldiers priſoners.</p>
+               <list>
+                  <item>Twenty barrels of powder,</item>
+                  <item>Three hundred arms,</item>
+                  <item>A Tun of match,</item>
+                  <item>Six Iron Peeces of Ordnance.</item>
+               </list>
+               <p>Col. <hi>Rich</hi> and Col. <hi>Okey</hi> having entred the Town, ſent the Generall notice of their proſperous proceedings, and deſired him to repair to them, which hee accordingly did, and com<g ref="char:EOLhyphen"/>ming to <hi>Bathe,</hi> having beſtowed ſome time in ſetling thereof, and having placed a ſtrong Gariſon, returned back to <hi>Wels.</hi>
+               </p>
+               <p>About this time his Majeſty being in a ſtrait, and doubting of the ability to engage with the Parliaments Forces, whom he unworthily and cauleſly brandeth with the names of Tray<g ref="char:EOLhyphen"/>tors and Rebels, commeth as in Progreſſe into <hi>Huntington<g ref="char:EOLhyphen"/>ſhire,</hi> though in truth to levy force, and to borrow or to take ſummes of money, of which he was in much want, and com<g ref="char:EOLhyphen"/>ming to <hi>Huntington,</hi> a Town notorious for Malignancy, and averineſſe to Reformation.</p>
+               <p>The Major of <hi>Huntington,</hi> and two Bailiffs of <hi>Godman-cheſter,</hi>
+                  <pb n="21" facs="tcp:159774:14"/> a Town neer adjacent, as being wrapt and to congra<g ref="char:EOLhyphen"/>tulate the Kings arrivall, taxed their Towns at ten and fifteen ſhillings a man, ſome of them mean men &amp; poor houſholders, who were conſtrained to borrow the money, and to work hard and faſt withall, to regain their impaired ability: the Major and Bailiffs and forty three of his Brethren preſented his Ma<g ref="char:EOLhyphen"/>ſty with a great ſum of their extorted money, who, whether miſdoubting their fidelity, or ſome great ones about him ſplee<g ref="char:EOLhyphen"/>ning them, or what other reaſon might be, I know not, but ſure I am they were conſtrained, as priſoners to paſſe in the conduct of the Army, ſo ſoon as the King came, Proclamation was made, that no ſouldier, upon pain of death, ſhould plunder, which peradventure might be a watch-word to warn them thereto; for no ſooner was it proclaimed, but ſouldiers fell to plundering on heaps, carrying out of ſhops and houſes, whole loads of Goods and Wares, and in ſome houſes left nought to adorn them but barewalls, the Townſmen were forced to bil<g ref="char:EOLhyphen"/>let ſome twenty, ſome thirty in one houſe, and to afford both horſe and mans meat for twelve pence a day, and to give all the World a true character of them, they knockt off all the Irons from the Priſoners and Fellons in <hi>Huntington</hi> Goale, many of them condemned for murther, who all took up arms for the King, <hi>and is this the mayntaining of the Laws (ſo fre<g ref="char:EOLhyphen"/>quently proteſted)</hi> and here let the Reader take notice that the Cavaliers and Royall party <hi>(Fight neither for God, nor for his Majeſty as they pretend)</hi> would they elſe deal ſo hardly and tyrannically with his Friends, that favour his proceedings, in all parts where they come, as in perticular this Town of <hi>Hun<g ref="char:EOLhyphen"/>tington,</hi> plundered by them, without diſtinction or exception of any, carrying with them many known Royalliſts as Priſo<g ref="char:EOLhyphen"/>ners, for that they denied thoſe ſums of money, which their un<g ref="char:EOLhyphen"/>conſcionable and uncharitable ſelves demanded, ſo that it is, or <note place="margin">What the Ca<g ref="char:EOLhyphen"/>valiers fight for.</note> may be apparant, to all not wilfully blind, that they fight to mayntain and uphold, ſo long as they may, their pleaſure and rapine, their debauſht and luxurious living, to which they are ſo accuſtomed and bewitcht, that they are reſolved, with it
+<pb n="22" facs="tcp:159774:15"/> their lives ſhall terminate, but they have but a ſhort time, I truſt now the wheels of the Chariots are taken off, ſo that they march but ſlowly and in Deſpair, againſt GOD.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Sir</hi> Thomas Fairfax <hi>taketh the ſtrong Caſtle of</hi> Sher<g ref="char:EOLhyphen"/>born, <hi>a Liſt of the Arms and Ammunition, taken in the ſaid Caſtle. He fighteth with, and diſcomfiteth the mutinous. Clubmen, taketh their chief Leaders. A Liſt of their names.</hi>
+               </head>
+               <p>HOw hath the Lord aſſiſted, the Forces, fighting for his Cauſe, this memorable and never to be forgotten year, Sir <hi>Thomas Fairfax</hi> reſolving, for the Reducement of <hi>Sherborn</hi> Caſtle: Drew out his Officers and Soul<g ref="char:EOLhyphen"/>diers, in deſpight of the Enemy, to their very walls and works, and prepared to undermine; battering Peeces arriving from <hi>Portſmouth,</hi> which they wanted before, a Battery was rayſed, and they began to play very fiercely, &amp; before night had made a large breach in the Caſtle, on the Eaſt part thereof) after the breach ſo made, the Generall out of his noble inclination, to prevent the effuſion of bloud, ſent another Summons to the Governour, willing him to ſurrender, or to expect the worſt extremity, the Summons this:</p>
+               <p>
+                  <hi>Sir,</hi> I have been as willing to gratifie you as any man with honourable conditions, having expreſſed ſo much Gallantry in defending your ſelf, but the advantage I now have, by being poſſeſſed of the breach, and ſome of the Towers, as it may with reaſon induce you to ſurrender the place, ſo it obligeth me in Honour, to agree to no other conditions then quarter for your lives, which I would be glad if you would accept, that ſo the effuſion of bloud which will inevitably follow upon a re<g ref="char:EOLhyphen"/>fuſall; might be prevented.</p>
+               <pb n="23" facs="tcp:159774:15"/>
+               <p> 
+                  <hi>Sir,</hi> It is againſt my nature to threaten or inſult over your condition, but I muſt tell you, and I wiſh you may have an heart to believe it, that if you refuſe this my offer, you and thoſe with you muſt know, I will heare of no terms for the future.</p>
+               <p>
+                  <hi>THOMAS FAIRFAX.</hi>
+               </p>
+               <p>The malitious and wicked Governour hardned to his ruine, would not vouchſafe to return an anſwer, ſave with great and ſmall ſhot that playd upon and wounded many of the Soul<g ref="char:EOLhyphen"/>diers, the Generall commanded for a ſtorme, the Souldiers re<g ref="char:EOLhyphen"/>ſolutely fell on, and placing their Ladders in a trice got over the Walls and Works, which the deſperate Enemy ſeeing, ſnatcht down their Colours, and with lamentable crys, deſired quarter, which they had afforded them, but not out of any zeal, to ſave their lives, but the Souldiers choſe rather to cram their pockets with ſilver and gold, of which there was ſtore, in the Caſtle, rather then to ſheath their ſwords in their Ene<g ref="char:EOLhyphen"/>mies bowels. The Generall ſtayed there one day to ſettle things in order, and after fortifying and mending the breaches, placed another Gariſon of Souldiers to keep the Caſtle for the uſe of the King and Parliament.</p>
+               <list>
+                  <head>
+                     <hi>A Liſt of the Priſoners taken at</hi> Sherborn <hi>Caſtle.</hi>
+                  </head>
+                  <item>Sir <hi>Lewis Dives.</hi>
+                  </item>
+                  <item>Sir <hi>John Walcooth.</hi>
+                  </item>
+                  <item>Col. <hi>Strangeways</hi> of Horſe.</item>
+                  <item>Col. <hi>Thornhill.</hi>
+                  </item>
+                  <item>Lievtenant Colo<g ref="char:EOLhyphen"/>nell <hi>Strangeways</hi> of Horſe.</item>
+                  <item>Major <hi>Balton.</hi>
+                  </item>
+                  <item>Cap. <hi>Hamon.</hi>
+                  </item>
+                  <item>Cap. <hi>Bright.</hi>
+                  </item>
+                  <item>Cap. <hi>Norris.</hi>
+                  </item>
+                  <item>Cap. <hi>Hodinot.</hi>
+                  </item>
+                  <item>Cap. <hi>Speed.</hi>
+                  </item>
+                  <item>Cap. <hi>Strangeways,</hi> of Horſe.</item>
+                  <item>Cap. <hi>Bond.</hi>
+                  </item>
+                  <item>Cap. <hi>Hoddar.</hi>
+                  </item>
+                  <item>Cap. <hi>Briſco.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Jenings</hi>
+                  </item>
+                  <item>Lievtenant <hi>Mallet.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Tayler.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Rogers.</hi>
+                  </item>
+                  <item>Lievten. <hi>Townſend</hi>
+                  </item>
+                  <item>Lievtenant <hi>Joliffe,</hi> of Horſe.</item>
+                  <item>Coronet <hi>Devonet,</hi> Reformado.</item>
+                  <item>Enſigne <hi>Gale.</hi>
+                  </item>
+                  <item>Enſigne <hi>Hoyes.</hi>
+                  </item>
+                  <item>Enſigne <hi>Harris.</hi>
+                  </item>
+                  <item>Enſigne <hi>Toole.</hi>
+                  </item>
+                  <item>Enſigne <hi>Collins.</hi>
+                  </item>
+                  <pb n="24" facs="tcp:159774:16"/>
+                  <item> Enſigne <hi>Mullins.</hi>
+                  </item>
+                  <item>Enſigne <hi>Tod.</hi>
+                  </item>
+                  <item>
+                     <hi>George Walker</hi>
+                  </item>
+                  <item>Provoſt Marſhal.</item>
+                  <item>
+                     <hi>Chyrurgions</hi> theſe:</item>
+                  <item>
+                     <hi>M. Stuckey.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Payley.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Robinſon.</hi> Miniſters.</item>
+                  <item>
+                     <hi>Doct. Cockson.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Wild.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Townſend.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Ford.</hi>
+                  </item>
+                  <item>Gentlemen theſe.</item>
+                  <item>
+                     <hi>M. Chaffine.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Buckland.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Barns.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Brown.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Grieſley.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Forſell.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Richlands.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Wiborn.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Huchins.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Carleton.</hi>
+                  </item>
+               </list>
+               <p>Three hundred forty foure common Souldiers.</p>
+               <p>The Generall having gained <hi>Sherborn</hi> Caſtle as aforeſaid, and about to advance, news came, that the Leaders of the Clubmen, were met together at <hi>Shaftſbury</hi> to conſult and give counſull how they might beſt thrive in their Deſignes, where<g ref="char:EOLhyphen"/>upon the Generall ſent a ſtrong party of Horſe, commanded by Colonell <hi>Fleetwood,</hi> to apprehend them, who accordingly com<g ref="char:EOLhyphen"/>ming to <hi>Shaftſbury,</hi> compaſſed the houſe where they were, took every man of them and brought them to <hi>Sherborn,</hi> where his Excellency yet abode, their names I ſhall give yov ere I finiſh this Chapter, this being the Lords Day. On Munday morn<g ref="char:EOLhyphen"/>ing the Generall received Intelligence, that the Clubmen had appointed ſeverall meetings, which moved Sir <hi>Thomas</hi> to ſend Lievtenant Generall <hi>Cromwell,</hi> with foure Regiments of horſe to trace them, and to ſpy out whether they intended, who be<g ref="char:EOLhyphen"/>ing on his march towards <hi>Shaftſbury,</hi> they might deſcry fly<g ref="char:EOLhyphen"/>ing Colours, ſurrounded with a numerous company, on the top of an exceeding high hill, a Lievtenant was ſent with a party of horſe to know the reaſon of their unlawfull aſſembling, where<g ref="char:EOLhyphen"/>upon their Leader one <hi>Newman</hi> deſcending the hill, ſaid, that the reaſon of the meeting was to know where they had diſpo<g ref="char:EOLhyphen"/>ſed thoſe Gentlemen wete taken at <hi>Shaftſbury,</hi> the Generall returned this Anſwer.</p>
+               <p>That he held it not fit to inform them of the reaſon what was done, being done by authority, but that they might know a reaſon of their ſurprizall thoſe perſons ſo met, were the occaſio<g ref="char:EOLhyphen"/>ners
+<pb n="25" facs="tcp:159774:16"/> and ſtirrers up of Commotions and unlawfull Aſſemblies deſtructive to the peace and ſafety of the Kingdom, Mr. <hi>New<g ref="char:EOLhyphen"/>man</hi> deſired to go and inform the people of the Anſwer, the Lievtenant Generall thought it convenient, with a party of horſe to accompany him, where being come, he had ſome con<g ref="char:EOLhyphen"/>ference with the ſeditious, the ſubſtance, that they did very ill to diſturbe the peace of the County, upon ſmall or no ground, and that whereas they pretended, they armed themſelves to ſave their goods, themſelves would occaſion the loſing of them, by abſenting themſelves from their dwellings, and hee further promiſed and proteſted unto them, that juſtice ſhould be done one any that had done them wrong, &amp; as for their Leaders taken at <hi>Shaftſbury,</hi> they were laid hold on, and were to be kept in cuſtody, onely till they ſhould cleer themſelves of ſome accu<g ref="char:EOLhyphen"/>ſations charged on them, and then they might return again to them; the Bores were all well ſatisfied, and promiſing never to aſſemble again each man departed to his home.</p>
+               <p>AFter this matter, ſo well handled, the Lievtenant Gene<g ref="char:EOLhyphen"/>rall with his party ſet forward to <hi>Hamilton,</hi> ſtill neere <hi>Strawton,</hi> on this hill were aſſembled a numerous multi<g ref="char:EOLhyphen"/>tude of Clubmen having for their defence an old <hi>Roman</hi> work deeply trencht, the Lievtenant Generall ſent a Lievtenant with a party of horſe to demand the cauſe of their meeting, who was anſwered by the rude and barbarous, onely with a dozen of ſhot: whereupon the Lievtenant Generall ſent once again to them, requiring them to lay downe their arms, or hee would fall upon them, they refuſed his meſſage with ſcorne, thereupon order was given for the Generals Troop to fall on them, who did ſo and were repulſed, not without ſome loſſe, and that by reaſon of the diſadvantage and unacceſſableneſſe of the place, the Clubmen ſhot as thick as hail from the bank, and defended the paſſage very valiantly, then the valiant Major <hi>Diſbrough</hi> with his Troop adventured, and with much difficul<g ref="char:EOLhyphen"/>ty got up the Hill, and charging their Reare, they began to run, throwing down their arms, in the purſuit ſixty were ſlain, two
+<pb n="26" facs="tcp:159774:17"/> hundred wounded, foure hundred of them taken and brought to <hi>Strawton,</hi> and kept all night in the Church, for the next morning the Generall commanded them to be brought forth, and after examination, the Lievtenant Generall advertized them to live peaceably, was moſt conducing and available for them, and wiſhed them to live peaceably at home, they ſaw the calamity that their Riſings had brought upon them, and more<g ref="char:EOLhyphen"/>over he gave them licenſe to oppoſe any that ſhould goe about to plunder or annoy them, and ſo diſmiſſed them each to his home. The names of their Leaders, and the principall Sticklers in this buſineſſe were theſe Gentlemen.</p>
+               <list>
+                  <item>Maſter <hi>Iohn Saints.</hi>
+                  </item>
+                  <item>M. <hi>Richard Buckeridge.</hi>
+                  </item>
+                  <item>M. <hi>William Smith.</hi>
+                  </item>
+                  <item>M. <hi>Thomas Gervis.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Lovell.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Iohn Eaſtmond.</hi>
+                  </item>
+                  <item>M. <hi>Francis Craddock.</hi>
+                  </item>
+                  <item>M. <hi>Edward Davis.</hi>
+                  </item>
+                  <item>M. <hi>Henry Haynard.</hi>
+                  </item>
+                  <item>M. <hi>Lawrence Hyde.</hi>
+                  </item>
+                  <item>M. <hi>Thomas Benet.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Pope.</hi>
+                  </item>
+                  <item>M. <hi>Thomas Roſſe.</hi>
+                  </item>
+                  <item>M. <hi>Henry Gouge.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Every.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Carty.</hi>
+                  </item>
+                  <item>M. <hi>Edward Boore.</hi>
+                  </item>
+                  <item>M. <hi>Nicholas Bingham.</hi>
+                  </item>
+                  <item>M. <hi>Thomas Rolph.</hi>
+                  </item>
+                  <item>M. <hi>Robert Squire.</hi>
+                  </item>
+                  <item>M. <hi>Richard Alborn.</hi>
+                  </item>
+                  <item>M. <hi>Charles Symmes.</hi>
+                  </item>
+                  <item>M. <hi>Francis Abbot.</hi>
+                  </item>
+                  <item>M. <hi>Robert Gapit.</hi>
+                  </item>
+                  <item>M. <hi>Thomas Marvell.</hi>
+                  </item>
+                  <item>M. <hi>Robert Hollis.</hi>
+                  </item>
+                  <item>M. <hi>Samuell Forward.</hi>
+                  </item>
+                  <item>M. <hi>William Fireall.</hi>
+                  </item>
+                  <item>M. <hi>Charles Studley.</hi>
+                  </item>
+                  <item>M. <hi>Thomas Brooke.</hi>
+                  </item>
+                  <item>M. <hi>Iohn King.</hi>
+                  </item>
+                  <item>M. <hi>Edmund Clarke.</hi>
+                  </item>
+                  <item>M. <hi>Martin March.</hi>
+                  </item>
+                  <item>M. <hi>Thomas Bun.</hi>
+                  </item>
+                  <item>M. <hi>William Saunders.</hi>
+                  </item>
+                  <item>M. <hi>William Blunt.</hi>
+                  </item>
+                  <item>M. <hi>Iohn May.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Corbet.</hi>
+                  </item>
+                  <item>M. <hi>Richard Craddock.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Pill.</hi>
+                  </item>
+                  <item>M. <hi>Robert Fry.</hi>
+                  </item>
+                  <item>M. <hi>William Ford.</hi>
+                  </item>
+                  <item>M. <hi>Matthew Mar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>in.</hi>
+                  </item>
+                  <item>M. <hi>William Laining.</hi>
+                  </item>
+                  <item>M. <hi>Henry Goodwin.</hi>
+                  </item>
+                  <item>M. <hi>Rock.</hi>
+                  </item>
+                  <item>M. <hi>Williams.</hi>
+                  </item>
+                  <item>
+                     <hi>M. Hollis.</hi> men chiefly noted for malignancy</item>
+                  <item>
+                     <hi>M. Young,</hi> men chiefly noted for malignancy</item>
+                  <item>
+                     <hi>M. Ieloff.</hi> men chiefly noted for malignancy</item>
+               </list>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="27" facs="tcp:159774:17"/>
+               <head>CHAP. V. <hi>Sir</hi> THOMAS FAIRFAX <hi>gaineth the famous City of</hi> Briſtoll, <hi>the Articles of agreement between the Commiſsioners appointed on the behalfe of the Governour, Prince</hi> Rupert <hi>and his Excellencie Sir</hi> Thomas Fairfax, <hi>for the ſurrendring of the Ci<g ref="char:EOLhyphen"/>ty.</hi> Ruperts <hi>Entertainment at</hi> Oxford.</head>
+               <p>THe victorious Generall Sir <hi>Thomas Fairfax</hi> being <note place="margin">Sir <hi>Thomas</hi> layeth ſiege to <hi>Briſtoll.</hi>
+                  </note> commanded by the Houſes of Parliament, to ſiege, and God aſſiſting, take the City of <hi>Briſtoll,</hi> out of their Enemies hands, the Generall to command obedience, advanced with his numerous and couragious Army to <hi>Briſtoll,</hi> and what by valour and policy incroached each day neerer and neerer their out-works, and in many places got within Piſtoll ſhot, and had many deſperate and hot firings with the Enemy, who often made divers furious, but fruitleſſe ſallies to their own loſſe and diſadvantage, the ſtrong Port called <hi>Portſhead</hi> Point was taken by aſſault, to the great diſcouragement and diſheartning of the Enemy: the Generall perceiving the po<g ref="char:EOLhyphen"/>tency of the Foe, and the ſtrength of the works, and knowing to too well the pittileſſe and implacable inclination of the Go<g ref="char:EOLhyphen"/>vernour, Prince <hi>Rupert,</hi> to prevent the inevitable ruine that would elſe happen on both ſides, ſent him this Summons, which for the elegancie and excellencie thereof, is worthy to be read by poſterity, which was this.</p>
+               <floatingText xml:lang="eng" type="summons">
+                  <body>
+                     <head>To his Highneſſe Prince <hi>Rupert.</hi>
+                     </head>
+                     <p>SIR, For the ſervice of the Parliament, I have brought their Armie before the City of <hi>Briſtol,</hi> and doe ſummon you in their names, to render it, with all the Forts belonging to the ſame, to their uſe.</p>
+                     <pb n="28" facs="tcp:159774:18"/>
+                     <p> Having uſed this plain language at the buſineſſe, Requires I wiſh it may be effectuall with you, as it is ſatisfactory to my ſelfe, that I a little expoſtulate with you about the ſame, which I ſhould not have uſed, but in reſpect to ſuch a perſon and ſuch a ploce, I take into conſideration your Royall birth, and relati<g ref="char:EOLhyphen"/>on to the Crown of <hi>England,</hi> your honour, courage, and fide<g ref="char:EOLhyphen"/>lity, and the ſtrength of that place, which you may think your ſelfe bound and able to maintain.</p>
+                     <p>Sir, the Crown of <hi>England</hi> is, and will be, where it ought to be, and we fight to maintain it there, <hi>But the King miſ<g ref="char:EOLhyphen"/>led</hi> 
+                        <note place="margin">☞</note> 
+                        <hi>by evill Counſellors, or through a ſeduced heart, hath left his Parliament and his people, under God, the beſt aſſurance of his Crown and family,</hi> the maintaining of this Schiſme is the ground of this unhappy war on your part, and what ſad effects it hath produced in all the three Kingdoms, is viſible to all men to maintain the rights of the Crowne and Kingdome jointly, a principall part whereof is, that the King, in ſupreme Acts, <note place="margin">☞</note> concerning the whole State, is not to be adviſed by men of whom the law takes no notice, but by his Parliament, the great Councel of the Kingdom,</p>
+                     <p>In whom, as much as man is capable of, he hears all his peo<g ref="char:EOLhyphen"/>ple, as it were at once adviſing him, in which multitude of Counſellors lie, his ſafety, and the peoples intereſt, and to ſet him right in this, hath been the conſtant and faithfull endea<g ref="char:EOLhyphen"/>vour of the Parlioment: Note, and to bring thoſe wicked In<g ref="char:EOLhyphen"/>ſtruments to Juſtice, that have miſled him, is a principal ground of our fighting.</p>
+                     <p>Sir, If God make this clear to you, as he hath to us, I doubt not but he will give you a heart to deliver this place, notwith<g ref="char:EOLhyphen"/>ſtanding, all the other conſiderations of honour and courage, becauſe of their conſiſtencie, and uſe in the preſent buſineſſe, depends upon the right or wrongfulneſſe of this that hath been ſaid, and if upon ſuch conviction you ſhall ſurrender it, and ſave the loſſe of bloud, and hazard of ſpoyling ſuch a City, it would be an occaſion glorious in it ſelfe, and joyfull to us, for the re<g ref="char:EOLhyphen"/>ſtoring of you to the indeared affection of the Parliament, and
+<pb n="29" facs="tcp:159774:18"/> people of <hi>England,</hi> the trueſt aſſurance, under God, to your family.</p>
+                     <p>But if this be hid from your eyes, and through your wilful<g ref="char:EOLhyphen"/>neſſe, this ſo great, ſo, famous, and ancient a City, and ſo full of people, be, by your putting us to force the ſame, expoſed to ruine and the extremities of War, which yet we ſhall in that caſe, as much as poſſibly in us lies endeavour to prevent, then I appeal to the righteous God to be Judge between you and us, and to require the wrong, and let all <hi>England</hi> judge, whether the ruining of its Cities, burning of its Towns, and deſtroying its people, be a good requitall from a perſon of your family, which hath had the prayers, tears, and purſes, yea, and the blouds of its Parliaments and people, and if you look on either as now divided, hath ever had that ſame party both in Parlia<g ref="char:EOLhyphen"/>ments and amongſt the people, moſt zealous for their aſſiſtance and reſtitution, which you now appoſe and ſeek to deſtroy, and whoſe conſtant griefe hath been their deſires to ſerve your Fa<g ref="char:EOLhyphen"/>mily, have been ever hindred and made fruitleſſe, by the ſame party about His Majeſty, whoſe Counſel you act, and whoſe intereſt you purſue in this unnaturall War.</p>
+                     <closer>
+                        <signed>Your Highneſſes humble Servant <hi>THOMAS FAIRFAX.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>THe Prince having received this ſummons, returned no Anſwer, but deſired he might have leave to ſend to His Majeſty: But Sir <hi>Thomas</hi> returned anſwer, that he might not fulfil his deſire in that point of ſending to His Majeſty, and deſired a ſpeedy and poſitive anſwer, but the Prince deſirous to hold the Generall in ſuſpenſe, and to gain time, hoping of re<g ref="char:EOLhyphen"/>liefe from the King, would not return an anſwer as was requi<g ref="char:EOLhyphen"/>red, but ſent ſome Propoſitions to the Generall, the moſt eſ<g ref="char:EOLhyphen"/>ſentiall whereof were to have exception from ſequeſtration, Cathedrall men to continue, the works to be demoliſhed, and no Gariſon hereafter, by which the Generall perceiving his averſeneſſe and policie, and having experience of his wonted
+<pb n="30" facs="tcp:159774:19"/> wiles, gave order to ſtorme the Town, the manner of ſtorming was agreed on, which was to be after this manner.</p>
+               <p>Colonel <hi>Welden</hi> with his Brigade, Col: <hi>Twooldbies,</hi> Col: <hi>Forteſcues,</hi> and Col: <hi>Herberts</hi> Regiment, whoſe poſts were to make good <hi>Somerſetſhire</hi> ſide, was ordered to ſtorme in three places, viz, 200 men in the middle, 200 men on each ſide, as forlorne hopes to begin the ſtorme, twenty ladders to each place, two men to carry each ladder, and to have five ſhillings a piece, two Serjeants that attend the ſervice of the ladders, to have twenty ſhillings a man, each musketteir that follows the ladder to carry a faggot, a Serjeant to command them, and to have the ſame reward, twelve files of men, with fire, armes, and pikes to follow the ladders to each place where the ſtorme is to be, thoſe to be commanded each by a Captain and Lievte<g ref="char:EOLhyphen"/>nant, the Lievtenant to go before with five files, the Captain to ſecond him with other ſeven files, the 200 men that are appoin<g ref="char:EOLhyphen"/>ted to ſecond the ſtorm to furniſh each party of them, 20 Pioners who are to march in their rear, the 200 men to be commanded each by a field Officer, and the Pioners each by a Serjeant. The manner of the ſtorme being thus contrived, the Generall to in<g ref="char:EOLhyphen"/>courage and animate the Souldiers, ſaw the Commiſſioners pay to each of them ſix ſhillings, which they accepted very thank<g ref="char:EOLhyphen"/>fully. Tueſday, September 9, at twelve of the clock at night, all the Armie Horſe and Foot ſurrounded the City to fall on, <note place="margin">
+                     <hi>Briſtoll</hi> ſtor<g ref="char:EOLhyphen"/>med.</note> at two of the clock in the morning the ſtorme began and for a while on both ſides many fell, the one party ſtriving with their utmoſt might to enter, and the other to repell them: Major <hi>Rainſborough</hi>'s Brigade that ſtormed the <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iors Fort,</hi> by rea<g ref="char:EOLhyphen"/>ſon of the unneceſſibleneſſe of the place ſpent neer three how<g ref="char:EOLhyphen"/>ers in deſperate ſight, but at length maugre their enemies they wan it, and entering the fort cut in pieces the Souldiers, gi<g ref="char:EOLhyphen"/>ving no Quarter to Major <hi>Price,</hi> and became Maſter of the Town, that Brigade under Collonel <hi>Welden</hi> fell on on <hi>Somer<g ref="char:EOLhyphen"/>ſetſhire</hi> ſide, but their ladders being ſet to the works proved too ſhort and unſerviceable, ſo they onely gave the enemie a ſound
+<pb n="31" facs="tcp:159774:19"/> Alarme: The loſſe of men on Sir <hi>Thomas</hi> his part, was not in all above forty. Collonel <hi>Taylor</hi> wounded mortally, Captain <hi>Ireton</hi> ſore wounded: Prince <hi>Rupert</hi> ſeeing this, with ſome force tooke the Caſtle for ſhelter, againſt which the Generall planted his Ordnance, intending to batter, when loe the Prince ſent out for a parley, which the Generall accepted, and after ſome few howers theſe Articles were produced.</p>
+               <p n="1">1 <hi>THat his Highneſſe Prince</hi> Rupert, <hi>and all Noblemen, Commanders, Officers, Gentle<g ref="char:EOLhyphen"/>men and Souldiers and all other perſons whatſoever now reſiding in the City of</hi> Briſtoll, <hi>the Caſtle and Forts thereof, ſhall march out of the ſaid Ci<g ref="char:EOLhyphen"/>ty, Caſtle and Forts, with Colours, Pikes and Drums, Bag and Baggage, the Prince his Highneſſe, all Noble<g ref="char:EOLhyphen"/>men, Gentlemen and Officers in Commiſsion, with their Horſe and Arms, and the ſervants with their horſes and ſwords, and common ſouldiess, with their ſwords: the Prince his Life-guard of Horſe, with their Horſe and Arms, and two hundred and fifty Horſe, to be diſpoſed by the Prince, and his Life-guard of Fire-locks, with their Arms, and each of them one pound of Powder, and a proportion of bullet, and that none of the perſons that are to march out on this Article, be plundered, ſearched or moleſted.</hi>
+               </p>
+               <p n="2">2 <hi>That ſuch Officers and Souldiers, as ſhall be left ſick or wounded, in the City, Caſtle, or Forts, and ſhall have liberty to ſtay till their recovery, and then to have ſafe conduct to go to his Majeſty.</hi>
+               </p>
+               <p n="3">3 <hi>That the perſons above-mentioned, who are to march away have a ſufficient convoy provided for them, to any ſuch Gariſon of the Kings as the Prince ſhall</hi>
+                  <pb n="32" facs="tcp:159774:20"/> 
+                  <hi>name, not exceeding fifty miles from</hi> Briſtoll, <hi>and ſhall have eight days allowed for their march thither, and ſhall have free Quarter allowed them by the way.</hi>
+               </p>
+               <p n="4">4 <hi>That all the Citizens of</hi> Briſtoll, <hi>all Noblemen, Gentlemen, Clergy-men, and all other perſons reſiding in the ſaid City and Suburbs of the ſame, ſhall be ſaved from all plunder and violence.</hi>
+               </p>
+               <p n="5">5 <hi>That in conſideration hereof the City of</hi> Briſtoll, <hi>the Caſtle and all other Forts thereof without any ſligh<g ref="char:EOLhyphen"/>ting or defacing thereof, and that all the Arms, Ammu<g ref="char:EOLhyphen"/>nition, and all other proviſions of War, except what is before allowed, be delivered up to his Ezcellency Sir</hi> Thomas Fairfax, <hi>without any diminution or imbezel<g ref="char:EOLhyphen"/>iuent: his Highneſſe Prince</hi> Rupert <hi>then naming to what Army or Gariſon of the Kings he will march.</hi>
+               </p>
+               <p n="6">6 <hi>That ſufficient Hoſtages be given to Sir</hi> Tho<g ref="char:EOLhyphen"/>mas Fairfax, <hi>ſuch as he ſhall approve who are to remain with him till the City be ſurrendred.</hi>
+               </p>
+               <p n="7">7 <hi>That upon the delivering of the Town ſufficient Hoſtages be given for the performance of the Articles on both ſides.</hi>
+               </p>
+               <p>Signed by us the Commiſſioners, in the behalf of Prince <hi>Rupert,</hi>
+               </p>
+               <p>
+                  <hi>John Min, William Tillyer, William Vavaſor.</hi>
+               </p>
+               <p>Signed by us the Commiſſioners in the behalf of his Excellency Sir <hi>Thomas Fairfax;</hi>
+               </p>
+               <p>
+                  <hi>Edward Mountague.</hi>
+               </p>
+               <p>
+                  <hi>Thomas Rainsborough.</hi>
+               </p>
+               <p>
+                  <hi>John Pickering.</hi>
+               </p>
+               <pb n="33" facs="tcp:159774:20"/>
+               <p> Turn over all the volumes of Hiſtories, reciting the Battails, beſiegings, and gainings of Towns by ſtorme, and ſee if it be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> recorded in any one place, that ſo ſtrong a City, manned by ſo powerfull and numerous an enemie, hath been taken by aſ<g ref="char:EOLhyphen"/>ſault, with the loſſe of ſo few, and ſo ſmall a number of men, as this famous City was: and what is more to be admired, the Prince and his Souldiers were provided within with all ſorts of neceſſaries, accommodated alſo for the defenſive, with forti<g ref="char:EOLhyphen"/>fications of the beſt ſort victuals in abundance, foure ſcore or an hundred run of beer bread ſufficient for an hundred thou<g ref="char:EOLhyphen"/>ſand men a day, and in a word, all things abling a people to hold out a long ſiege, but it was the Lord, the Lord God of Hoſts, ſtrong and above all, that ſtrengthened the one party, and diſheartned the other.</p>
+               <p>The Prince made choice of <hi>Oxford</hi> for his refuge Gariſon, where being arived, he was entertained with ſlow regreet, the King not vouchſafing to ſee him, and what was ſurely to him unlookt for, confined him to his chamber, and it was motioned by ſome Lords neer his Majeſty, that he ſhould be tryed and examined by a Counſell of War, why and upon what termes he ſo eaſily ſurrendred <hi>Briſtol,</hi> ſome ſaid, fear and timerouſneſs of heart made him yeeld up, others judged that gold had cor<g ref="char:EOLhyphen"/>rupted him, and that he plaid Legerdimain, receiving a ſum of money to ſurrender the Town, but all concluded that through his proper default was occaſioned that great and weighty loſſe, but the King, contrary to the minds and Counſell of his Lords, accepted him again to grace and favour.</p>
+               <trailer>The end of the firſt Book.</trailer>
+            </div>
+         </div>
+         <div n="2" type="book">
+            <pb n="34" facs="tcp:159774:21"/>
+            <head>THE YEARE OF JUBILE: The ſecond Book.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Sir</hi> Thomas Fairfax <hi>taketh by ſtorme the ſtrong Caſtle of</hi> Tiverton, <hi>overthroweth and routeth two Ragi<g ref="char:EOLhyphen"/>ments of the</hi> Kings <hi>Horſe neer</hi> Bowytracy.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T may perchance appeare to ſome men folly and <note place="margin">The Authours Apology.</note> want of judgement in me, that I doe not ſet down in order, all and ſingular every Battail and Over<g ref="char:EOLhyphen"/>throw given the King, whether by Sir <hi>Thomas Fairfax</hi> or any other inferiour Officer: and that I break and mayme my Hiſtory by overpaſſing many remark<g ref="char:EOLhyphen"/>able Victories attained by <hi>Col. Gen. Pointz,</hi> and others, I an<g ref="char:EOLhyphen"/>ſwer:</p>
+               <p>Be pleaſed to take notice, that this is not an overſight in me, but a thing done wittingly and willingly, yea of ſet purpoſe, and that for three Reaſons:</p>
+               <p>
+                  <hi>Firſt,</hi> the ſcope of my intenſions, when I began this Worke, was wholly to ſet down in order the Atchievements and pro<g ref="char:EOLhyphen"/>ſperous proceedings of our thrice renowmed Generall Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi>
+                  <pb n="35" facs="tcp:159774:21"/> 
+                  <hi>Fairfax,</hi> and to paſſe by and take no notice of the Deeds of any other were they never ſo glorious and meriting.</p>
+               <p>
+                  <hi>Secondly,</hi> that in ſo doing I might the more delight and ſo<g ref="char:EOLhyphen"/>lace my Reader, while I pitch upon one perticular perſon, and bring in no other to vie with or pertake of his merit, which I ſhould do had I done otherwiſe, and have eclipſed the bright<g ref="char:EOLhyphen"/>neſſe of his glory, under whoſe command, and by whoſe pe<g ref="char:EOLhyphen"/>culiar direction, all the Atchievements, Victories and gainings, by me recorded, were attained.</p>
+               <p>
+                  <hi>Thirdly,</hi> that in viewing his honourable deeds wee might have cauſe to rejoyce, yea and boaſt, ſo wee derogate from the glory of God, that this latter Age affordeth a man, whom it hath pleaſed the Almighty ſo to proſper and aſſiſt, that hee hath ever ſince he received his Commiſſion, and appoſed the Ene<g ref="char:EOLhyphen"/>my, been a continuall victor, and what Generall of any Nati<g ref="char:EOLhyphen"/>on ever could ſay as he can and that truly.</p>
+               <p>Sir <hi>Thomas</hi> hearing of the Enemies advance to <hi>Axminſter,</hi> being two thouſand Horſe, reſolved to ingage them if it were poſſible, and hinder their plundering progreſſe what he inten<g ref="char:EOLhyphen"/>ded, he put in execution, and with his whole Army marched after the Enemy who were then at <hi>Hunnington,</hi> meaning to hinder, if they ſhould attempt it, to march Eaſtward, the Ene<g ref="char:EOLhyphen"/>my marched over the River <hi>Ex,</hi> whereupon the Generall cau<g ref="char:EOLhyphen"/>ſed a part of his Army to be diſpoſed along that River, ſo to pre<g ref="char:EOLhyphen"/>vent the Enemies return with the reſt of his Army hee advan<g ref="char:EOLhyphen"/>ced to <hi>Tiverton,</hi> whether hee had ſent before Major Generall <hi>Maſſey,</hi> who found the Governour very obſtinate, whereupon Sir <hi>Thomas Fairfax</hi> commanded to ſtorm it, which the ſoul<g ref="char:EOLhyphen"/>diers were in a readineſſe to do, when the Canoneer with a great ſhot after a wonderfull and unparalleld manner broke the chain of the Draw-bridge, which falling down, the Souldiers on heaps entred, and in a trice were got over the Works, the Enemy tooke the Caſtle for ſhelter, and had onely Quarter for their lives. There were taken theſe priſoners, <hi>October</hi> the nine<g ref="char:EOLhyphen"/>teenth, 1645.</p>
+               <list>
+                  <pb n="36" facs="tcp:159774:22"/>
+                  <item>Sir <hi>Gilbert Talbot,</hi> Gover<g ref="char:EOLhyphen"/>nour.</item>
+                  <item>Major Generall <hi>Sadler.</hi>
+                  </item>
+                  <item>Major <hi>Moneuch.</hi>
+                  </item>
+                  <item>Major <hi>Wilks.</hi>
+                  </item>
+                  <item>Major <hi>Pain.</hi>
+                  </item>
+                  <item>Captain <hi>William Sturgeon.</hi>
+                  </item>
+                  <item>Maſter <hi>Thomas Whitby.</hi>
+                  </item>
+                  <item>Captain <hi>Markas Whitby.</hi>
+                  </item>
+                  <item>Captain <hi>Edward Kemp.</hi>
+                  </item>
+                  <item>Captain <hi>Richard Philips.</hi>
+                  </item>
+                  <item>Captain <hi>Richard Mattock.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Thomas Sadler.</hi>
+                  </item>
+                  <item>Lievte. <hi>Haniball Weſtcoat.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Thomas Whitby.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Thomas Sibley.</hi>
+                  </item>
+                  <item>Lievten. <hi>Francis Moneuch.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Iohn Hawkes.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Evely.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Kemp.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Mutiſin.</hi>
+                  </item>
+                  <item>
+                     <hi>William Sharp,</hi> Letter Car<g ref="char:EOLhyphen"/>rier.</item>
+                  <item>Enſigne <hi>Francis Skidmoore.</hi>
+                  </item>
+                  <item>Enſigne <hi>Iohn Martin.</hi>
+                  </item>
+                  <item>Enſigne <hi>Francis Wilks.</hi>
+                  </item>
+                  <item>Enſigne <hi>Francis Pollard.</hi>
+                  </item>
+                  <item>Enſigne <hi>Davis.</hi>
+                  </item>
+                  <item>Enſigne <hi>Kerrey.</hi>
+                  </item>
+                  <item>Serjeant <hi>Nicholas Collins.</hi>
+                  </item>
+                  <item>Serjeant <hi>Rounſell.</hi>
+                  </item>
+                  <item>Serjeant <hi>Thomas Nichols.</hi>
+                  </item>
+                  <item>Serjeant <hi>Giles Geffrey.</hi>
+                  </item>
+                  <item>Serjeant <hi>Tobias Hickman.</hi>
+                  </item>
+                  <item>One hundred ſixty eight common ſouldiers.</item>
+               </list>
+               <p>The Generall having intelligence that two Regiments of the enemies Horſe quartered neer <hi>Bouytracy,</hi> ſent a party to ſur<g ref="char:EOLhyphen"/>prize or fight with them, who ariving where they were, after ſome hot diſputation, put them to flight, and took four hundred</p>
+               <p>Horſe, five Colours.</p>
+               <p>The next morning the Generall kept his Randevouz at <hi>Bouy<g ref="char:EOLhyphen"/>tracy,</hi> from whence they marcht on an other deſigne.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="37" facs="tcp:159774:22"/>
+               <head>CHAP. II. <hi>The Generall obtaineth ſeverall Conqueſts in the Weſt to keep many Priſoners: A Liſt of the names, Hee ſtormeth the Town of</hi> Dartmouth, <hi>and taketh it with many Priſoners.</hi>
+               </head>
+               <p>THe General knowing the enemy had fortified <hi>Kenter<g ref="char:EOLhyphen"/>bury,</hi> and at Saint <hi>Burdeaux</hi> Church, hee therefore with five hundred foot, and one hundred horſe to viſit the ſaid enemy, and if the Summons were refuſed, to ſtorm it, and enter perforce, which they did, faire terms being proffered but not accepted of, where they took all the enemies nine horſes, of which they had ſtore; men, ammunition, and whatſoever elſe was there: the firſt worke they took without any loſſe, but the other occaſioned the loſſe of five men: of the enemy were ſlain twelve; the officers of horſe and foot that were taken, were theſe.</p>
+               <list>
+                  <item>Major <hi>Iames Suppley.</hi>
+                  </item>
+                  <item>Captain <hi>Peter Lapp.</hi>
+                  </item>
+                  <item>Captain <hi>Richard Price.</hi>
+                  </item>
+                  <item>Captain <hi>Thomas Baker.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Richard Marley</hi>
+                  </item>
+                  <item>Cornet <hi>Thomas Hayne.</hi>
+                  </item>
+                  <item>Cornet <hi>George Gammis.</hi>
+                  </item>
+                  <item>Quartermaſter <hi>Oliver Franklin.</hi>
+                  </item>
+                  <item>Corporall <hi>Iohn Mucwell.</hi>
+                  </item>
+                  <item>Corporall <hi>George Dent.</hi>
+                  </item>
+                  <item>Corporall <hi>Geo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ge Earle.</hi>
+                  </item>
+                  <item>Major <hi>Robert Baul.</hi>
+                  </item>
+                  <item>Captain <hi>Hugh Edwards.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Peter Mark.</hi>
+                  </item>
+                  <item>Enſigne <hi>Eſdras Micheal.</hi>
+                  </item>
+                  <item>Enſigne <hi>Chriſtopher Carne.</hi>
+                  </item>
+                  <item>Serjeant <hi>Iohn Chriſtophers.</hi>
+                  </item>
+                  <item>Serjeant <hi>Iacob Rogers.</hi>
+                  </item>
+                  <item>Thirty three Troopers.</item>
+                  <item>Forty ſix Horſes.</item>
+               </list>
+               <p>The Generall for a while quartered about <hi>Bouytracy,</hi> to hin<g ref="char:EOLhyphen"/>der and oppoſe the enemies Incurſions, very briefe in theſe parts, had often skirmiſhes with them, and each day took pri<g ref="char:EOLhyphen"/>ſoners, one time 200, another time 80, all horſmen, having
+<pb n="38" facs="tcp:159774:23"/> been a time, here the Generall called a Councel of War, who generally agreed for the reducing of <hi>Dortmouth,</hi> a Town very neer them, the Generall drawing up his forces againſt it, ſent them a ſummons, which being refuſed he gave order to ſtorme it, and appointed the manner of the ſtorme thus, on the weſt gate by Col. <hi>Hammond,</hi> on the North end of the Town, by Lievtenant Col. <hi>Pride,</hi> and on Truſtall Church and works by Col. <hi>Forteſcue,</hi> the ſtorme began in the evening, the Souldiers aſſaulted with great courage and reſolution: Col. <hi>Hammond</hi> gained the Weſt gate, his Souldiers fluſht therewith, went on, and beating down the enemies, poſſeſſed themſelves of many Forts one after another, <hi>viz. Mount Fleggon,</hi> the Weſt gate, Paradice Fort, where they tooke foure Lieutenant Gollonels, and poſſeſt themſelves from the Weſt gate to little <hi>Dartmouth;</hi> neither was <hi>Forteſcue</hi> this time idle, though more ſtrongly re<g ref="char:EOLhyphen"/>pulſed then his aſſociates that ſtormed elſewhere, yet inſpight of blows he entered alſo, and poſſeſt himſelfe of the place, ſo that now the miſerable enemie were beaten out of all, ſave one<g ref="char:EOLhyphen"/>ly the great Fort on the Eaſt ſide of the River, called Kingſ<g ref="char:EOLhyphen"/>worth Fort, to which the Governour and the Earle of <hi>New<g ref="char:EOLhyphen"/>port</hi> for ſafety fled, wherefore the Generall ordered ſome Dra<g ref="char:EOLhyphen"/>goons, with two Companies of Firelocks, and ſome Sea men to give an Alarme to that Fort, but the enemie doubting their own ſtrength, deſired to come to compoſition, and to yeeld up<g ref="char:EOLhyphen"/>on termes, which the Generall condiſcended unto, and ſuffered Sir <hi>Henry Cary</hi> to march away, leaving the Armes, Ammu<g ref="char:EOLhyphen"/>nition and all in the Fort to his diſpoſing, being thus maſter of all but the Caſtle, he ſent another Summons to the Gover<g ref="char:EOLhyphen"/>nour, who was very pliable and willing to accept of any terms <hi>Dire need inforced him,</hi> wherefore he ſent out as Hoſtages Mr. <hi>Seamor,</hi> Mr. <hi>Denham,</hi> with whom came alſo the Earl of <hi>New<g ref="char:EOLhyphen"/>port.</hi> There were taken 11 Guns in the Harbour,</p>
+               <list>
+                  <item>103 peeces of Ordnance,</item>
+                  <item>100 Horſe,</item>
+                  <item>600 Priſoners, Souldiers.</item>
+                  <item>A good proportion of Armes and Ammunition.</item>
+               </list>
+               <list>
+                  <pb n="39" facs="tcp:159774:23"/>
+                  <head>Men of Quality taken theſe:</head>
+                  <item>Sir <hi>Hugh Pollard</hi> Governour.</item>
+                  <item>Earle of <hi>Newport.</hi>
+                  </item>
+                  <item>Colonel <hi>Seymour.</hi>
+                  </item>
+                  <item>Lievtenant Colo.</item>
+                  <item>
+                     <hi>Codrington.</hi>
+                  </item>
+                  <item>
+                     <hi>Blunt.</hi>
+                  </item>
+                  <item>
+                     <hi>Wadland.</hi>
+                  </item>
+                  <item>
+                     <hi>Searle.</hi> Majors.</item>
+                  <item>
+                     <hi>Fulford.</hi>
+                  </item>
+                  <item>
+                     <hi>Hooper.</hi> Captains.</item>
+                  <item>
+                     <hi>Pollard.</hi>
+                  </item>
+                  <item>
+                     <hi>Woodly.</hi>
+                  </item>
+                  <item>
+                     <hi>Sampſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Duke.</hi>
+                  </item>
+                  <item>
+                     <hi>Fowell.</hi>
+                  </item>
+                  <item>
+                     <hi>Colefin.</hi>
+                  </item>
+                  <item>
+                     <hi>Ford.</hi>
+                  </item>
+                  <item>
+                     <hi>Blewet.</hi>
+                  </item>
+                  <item>
+                     <hi>Start.</hi>
+                  </item>
+                  <item>
+                     <hi>Dewning.</hi>
+                  </item>
+                  <item>
+                     <hi>Horton.</hi>
+                  </item>
+                  <item>
+                     <hi>Conway.</hi>
+                  </item>
+                  <item>
+                     <hi>Reynolds.</hi>
+                  </item>
+                  <item>
+                     <hi>Philips.</hi> Lievtenants.</item>
+                  <item>
+                     <hi>King.</hi>
+                  </item>
+                  <item>
+                     <hi>Pollard.</hi>
+                  </item>
+                  <item>
+                     <hi>Hunt.</hi>
+                  </item>
+                  <item>
+                     <hi>Duncalf.</hi>
+                  </item>
+               </list>
+               <p>Many Country Gentlemen, Miniſters and inferious Officers, all the common ſouldiers as aforeſaid.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>The Generall receiveth</hi> Poutheram <hi>Caſtle by compoſi<g ref="char:EOLhyphen"/>tion, and prepareth for to fall on the City of</hi> Exceter.</head>
+               <p>HAD we any reaſon to expect, or could our behaviour challenge the leaſt of thoſe infinite mercies the Lord hath been pleaſed to beſtow, and doth ſtill, upon our unworthy and ſinfull ſelves, who even when we were preſſed and ſank under our burthens, when we expected to be delivered into the hands of the malicious and cruel ene<g ref="char:EOLhyphen"/>mie, even then, I ſay, who was hee that truly and ſincerely humbled himſelfe under the afflicting hand of God, were not then the ale-benches <hi>preſſed with the weight of Drunkards till they groaned,</hi> who mixing oaths with Ale, made an ingredi<g ref="char:EOLhyphen"/>ence, which quaft of, might ſurely deſtroy the health both of their bodies and ſouls.</p>
+               <pb n="40" facs="tcp:159774:24"/>
+               <p> Did not that capitall ſin of pride reign as kingly, and was borne in as magnificent pompe on the backs of men and wo<g ref="char:EOLhyphen"/>men, as ever before or ſince: Was not the Sabbath as frequent<g ref="char:EOLhyphen"/>ly and wickedly prophaned as before? And in a word, were not all ſins obnoxius and deſtructive to a Nation, then predo<g ref="char:EOLhyphen"/>minant? and ſince it hath pleaſed God to take his hand off from us, and to burn the rod wherewith he erſt ſo ſorely ſcour<g ref="char:EOLhyphen"/>ged us? Who is he that rendereth thanks as hee ought? are we not frozenin our dregs, and abide in our wretchedneſſe ſtil? well let us take heed and look to our ſelves, leaſt it happen to us as whilome to that now ſcattered <note n="b" place="margin">The Iews.</note> Nation, <hi>whom neither judgemements would convince, nor mercies allure.</hi>
+               </p>
+               <p>AFter the taking of <hi>Dartmouth,</hi> the Generall advanced to <hi>Powtheram</hi> Caſtle, ſituated within three miles of <hi>Exceter,</hi> and having ſent a Summons to Major <hi>Fletcher</hi> the Go<g ref="char:EOLhyphen"/>vernour he accepted thereof, and ſurrendred the Caſtle on theſe terms, that every man ſhould goe to his own home, armed with ſwords onely, the other Armes, Ammunition, and what<g ref="char:EOLhyphen"/>ſoever elſe was in the Caſtle, to be delivered up to the Generall, There were in it 1200 Souldiers.</p>
+               <p>
+                  <hi>Taken,</hi> 1400 Armes, 4 Horſes, Match and bullet proportionable.</p>
+               <p>FRom <hi>Pawtheram</hi> Caſtle the Generall advanced towards <hi>Exceter,</hi> with a reſolution to reduce that City, but here the Souldiers undrwent much ſorrow, a ſcarcity of all things neceſſary: for the enemie having been but a little before them here, had eat up the Countrey, and as their manner was, and ſtill is, <hi>left nothing of worth behind them,</hi> ſo that the Generall was forced to purvey for his Armie, and to fetch proviſions from places and Towns far diſtant from them, the Gover<g ref="char:EOLhyphen"/>nour of <hi>Exeter</hi> doubting of the fidelity of the Townſmen, and of their coherence with the Parliament, to make all ſure, and ſtrengthen himſelfe, as he thought, framed, and impoſed on all the Inhabitants this Oath.</p>
+               <pb n="41" facs="tcp:159774:24"/>
+               <p> I AB <hi>do freely from my heart ſweare, vow and pro<g ref="char:EOLhyphen"/>teſt in the preſence of Almighty God, that I wil uſe my beſt ondevour to mayntain and defend the City of</hi> Ex<g ref="char:EOLhyphen"/>ceter <hi>againſt all Forces raiſed, or to be raiſed without his Majeſties conſent, and perticularly againſt the Forces new under the command of Sir</hi> THOMAS FAIR<g ref="char:EOLhyphen"/>FAX, <hi>or any other that ſhall command them, or any o<g ref="char:EOLhyphen"/>ther Forces againſt this City, all Forces which do or ſhall adhere to them or their Party, and I will neither direct<g ref="char:EOLhyphen"/>ly or iudirectly give, nor as much as in me lyes ſuffer to be given any intelligence, advice or information to the Army, or any of thoſe Forces under the command of Sir</hi> Thomas Fairfax, <hi>or to any other Forces not raiſed by the Kings conſent, which ſhall now, or hereafter come againſt, or lye before this City, but will from time to time diſcover to the Governour of this City, all trea<g ref="char:EOLhyphen"/>cherous Plots, Deſignes, Conſpiracies, or Attempts, which I ſhall know, heareof, or probably ſuſpect to be plotted againſt his Majeſties perſon and this City, or any of his Majeſties Armies, Towns, or Forces, neither will I, nor ſhall any other by my procurement, directly or in<g ref="char:EOLhyphen"/>directly, by words, or otherwiſe diſſwade or diſcourage, any of the Souldiers or Inhabitants of this City from in<g ref="char:EOLhyphen"/>gaging themſelves or perſiſting in his Majeſties ſer<g ref="char:EOLhyphen"/>vice, or the defence of this City, againſt the Forces aforeſaid, and this I vow and proteſt, according to the uſuall ſenſe and meaning of the words, hereof without any equivocation, or mentall reſervation, ſo helpe mee, and by the contents of this Book.</hi>
+               </p>
+               <p>Thus this cruell and tyannicall Governour, not content to force divers honeſt and godly men, which were known to be in that City, to expoſe their lives for the defence of thoſe, who
+<pb n="42" facs="tcp:159774:25"/> complead and furthered all means and ways, deſtructive to re<g ref="char:EOLhyphen"/>formation, but alſo by this did his utmoſt to kill their ſouls by impoſing upon them, an unconſcionable an wicked oath, but in ſuch caſes it is doubtfull, whether wee may or not, cheere our ſelves ſaying, <hi>votum extortum, non eſſe ſervandum.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>The Generall forſaking</hi> Exceter, <hi>advanceth at</hi> Tor<g ref="char:EOLhyphen"/>rington, <hi>meeteth with the Lord</hi> Hoptons <hi>Forces, whom after abloudy fight he vanquiſheth and routeth and after advanceth for</hi> Cornwall.</head>
+               <p>THe Parliaments Generall Sir <hi>Thomas Fairfax,</hi> hea<g ref="char:EOLhyphen"/>ring of the execrable proceedings of the enemy about <hi>Torrington,</hi> reſolved to march thither, and either by fight to impair their ſtrength, or by the terrour of his approach, to force them out of thoſe parts, the Leader and Commander in chiefe of the enemy was the Lord <hi>Hopton,</hi> a man more raſh then valiant, he commanded an Army of foure thouſand horſe, and two thouſand foot, who being come to <hi>Ring-raſh,</hi> there pitched his Camp reſolved to fight, ſhould the Generall ingage with him.</p>
+               <p>Sir <hi>Thomas</hi> having left the City of <hi>Exceter,</hi> begirt with a ſtrong ſiege, appointing Colonel <hi>Hamon</hi> to block up the Eaſt and Weſt ſide of the River, and to raiſe ſome <hi>Sowthams</hi> to lye about <hi>Totneſſe,</hi> for the ſecuring of the Coungrey, drew his Army towards <hi>Torrington,</hi> with purpoſe, to fight or diſlodge the Enemy as aforeſaid, the Lord <hi>Hopton</hi> had all his horſe drawn together about <hi>Torrington,</hi> and with his foot prepared to defend the Town, which he fortified ſtrongly, the Generall drawing neer within two miles of the enemy, received intel<g ref="char:EOLhyphen"/>ligence that a hundred Dragoons had poſſeſſeſt the lodge in the Park, and were fortifying it, who upon the Generals nee<g ref="char:EOLhyphen"/>rer
+<pb n="43" facs="tcp:159774:25"/> approach forſook the houſe and fled, the Forlorn Hope per<g ref="char:EOLhyphen"/>ceiving took many of them priſoners, and ſo eagerly chaſed them, that unawares they came ſo neer the Town, they could not retreat, whereupon the Generall ſent a ſtrong party to bring them off, whoſe approach the enemy perceiving, they fell upon them, and they on them, ſo that there hapned a blou<g ref="char:EOLhyphen"/>dy skirmiſh betwixt them, the Generall fearing the enemy would ore-power them, and hemming them in, cut them to pieces; ſent a Colonell with three Regiments of foot and ſome horſe, to lye for Reſerves unto them who after long fight, quit<g ref="char:EOLhyphen"/>ting themſelves like men put the enemy to flight, and returned the next day: the Generall apprehending by certain evident ſignes that the enemy doubting their ſtrength, intended to quit their place, if it were poſſible without fighting, wherefore the Generall ſent forth ſmall parties, to the end of the Towne to make a certain diſcovery, who incroaching neer their Works, and being viewed by the enemy, they entertained them with a volley of ſhot: the Generall hearing it, and thinking they were ingaged, ſent a ſtrong party to aſſiſt them, and after three Re<g ref="char:EOLhyphen"/>giments more, after a long fight, and many hot firings Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> his Souldiers prevailed, and maugre their enemies came up, even to the Barracadoes and line, where at puſh of pike they continued long in diſputation, but at length God aſſiſting them, they beat their enemies from their Works, who flying they entred with them, the middle of the Towne, where they endured a hotter skirmiſh with the horſe then erſt with the foot, who charged them very reſolutely, inſomuch, that they were almoſt forted to forſake the Works again, but that Co<g ref="char:EOLhyphen"/>lonel <hi>Hammond,</hi> with a new party entred to their aſſiſtance, rallyed anew the ſcattered party Major <hi>Stephens</hi> with his For<g ref="char:EOLhyphen"/>lorne hope comming up to ſecond them, charged the enemy a<g ref="char:EOLhyphen"/>gaine and put them to flight, the enemies horſe making good their Retreat out of the Town towards the Bridge, a place was very advantageous for them, and occaſioned their preſervati<g ref="char:EOLhyphen"/>on, the Bridge they went over lying ſo beyond the Towne, as the Generals horſe could not reach them, but through the
+<pb n="44" facs="tcp:159774:26"/> Town, which by reaſon of ſtraight paſſage through ſeverall Ba<g ref="char:EOLhyphen"/>racadoes was very tedious, by means whereof, and of the con<g ref="char:EOLhyphen"/>tinued ſtraight lanes, the enemy had to retreat by, after they were over the River, as alſo by the advantage of the night, and by their perfect knowledge of the Countrey, and Sir <hi>Thomas</hi> his ſouldiers utter ignorance therein, they could do little or no execution upon the purſuit, but parties ſent out ſeverall wayes: did the beſt they could, and took ſome priſoners. There were taken in all about 600 common ſouldiers, the enemies horſe, with the foot that were not taken or killed, fled into <hi>Cornwall.</hi>
+               </p>
+               <list>
+                  <head>A Liſt of the Priſoners taken.</head>
+                  <item>Lievtenat Colonell <hi>Wood.</hi>
+                  </item>
+                  <item>Captain <hi>Prideaux.</hi>
+                  </item>
+                  <item>Captain <hi>Cowley.</hi>
+                  </item>
+                  <item>Captain <hi>Bowne.</hi>
+                  </item>
+                  <item>Captain <hi>Minne.</hi>
+                  </item>
+                  <item>Captain <hi>Mount.</hi>
+                  </item>
+                  <item>Captain <hi>Bennet.</hi>
+                  </item>
+                  <item>Captain <hi>Moulin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </item>
+                  <item>Captain <hi>Weeks.</hi>
+                  </item>
+                  <item>Commiſſary <hi>Bovey.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Hoakie.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Kirton.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Morris.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Green.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Maſon.</hi>
+                  </item>
+                  <item>Lievtenant <hi>Gering.</hi>
+                  </item>
+                  <item>Cornet <hi>Wels.</hi>
+                  </item>
+                  <item>Enſigne <hi>Fielding.</hi>
+                  </item>
+                  <item>Enſigne <hi>Huggins.</hi>
+                  </item>
+                  <item>Enſigne <hi>Williams.</hi>
+                  </item>
+                  <item>
+                     <hi>Allen, Mackmalen.</hi>
+                  </item>
+                  <item>Serjeant <hi>Boſwell.</hi>
+                  </item>
+                  <item>Serjeant <hi>Trevor.</hi>
+                  </item>
+                  <item>Serjeant <hi>Pewelly.</hi>
+                  </item>
+                  <item>Serjeant <hi>Sheffield,</hi> Generall of the Princes Lifeguard. 68.</item>
+                  <item>Troops of the Lord <hi>Hoptons</hi> Life-guard.</item>
+                  <item>Of <hi>Culpppers,</hi> 7</item>
+                  <item>Of <hi>Stukleys,</hi> 3</item>
+                  <item>Of Colonel <hi>Webs,</hi> 2</item>
+                  <item>Of Colonel <hi>Huntington,</hi> 2</item>
+                  <item>Of Colonel <hi>Slingsby,</hi> 2</item>
+                  <item>Of Colonel <hi>Hoptons,</hi> 2</item>
+                  <item>Of Colonel <hi>Hoopers.</hi> 3</item>
+                  <item>Lievtenant <hi>Cleulands,</hi> 2</item>
+                  <item>Of Colonel <hi>Criſps,</hi> 1</item>
+                  <item>Of Colonel <hi>Gettings,</hi> 2</item>
+                  <item>Lord <hi>Capels</hi> ſervants, 5</item>
+                  <item>Colonel <hi>Champeroons,</hi> 1</item>
+                  <item>Colonel <hi>Collins,</hi> 8</item>
+                  <item>Colonel <hi>Shelleys,</hi> 9</item>
+                  <item>Colonel <hi>Slaughters,</hi> 3</item>
+                  <item>Colonel <hi>Arundels,</hi> 5</item>
+                  <item>Colonel <hi>Trevamors,</hi> 5</item>
+               </list>
+               <pb n="45" facs="tcp:159774:26"/>
+               <p> After the taking of <hi>Torrington,</hi> the Generall having placed a ſtrong Gariſon of ſouldiers in it, whom he bound by an oath to keep for the uſe of the King and his Parliament, hee advan<g ref="char:EOLhyphen"/>ced with his whole Army into <hi>Cornwall,</hi> of whoſe proceedings, read more in the next Chapter.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Sir</hi> Thomas Fairfax <hi>with his Army ariveth in</hi> Corn<g ref="char:EOLhyphen"/>wall, <hi>hath divers Skirmiſhes with the enemy there: the Lord</hi> Hopton <hi>having recruited himſelf, commit<g ref="char:EOLhyphen"/>teth many out-rages. The</hi> Corniſh Petition <hi>to His Excellency, who having ſurrounded the Lord</hi> Hop<g ref="char:EOLhyphen"/>ton, <hi>ſummons him to yield on Honourable conditi<g ref="char:EOLhyphen"/>ons.</hi> Hoptons <hi>Anſwer.</hi>
+               </head>
+               <p>FRom <hi>Torrington</hi> his Excellency advanced to <hi>Launce<g ref="char:EOLhyphen"/>ſton,</hi> where hee abode two days to refreſh his wearied men, and then advanced ſix miles further to <hi>Bodnam,</hi> and ſending out a forlorn hope, they hapned to encoun<g ref="char:EOLhyphen"/>ter with the enemies Scouts, whom they tooke, not one man eſcaping, and being brought to the Generall confeſſed, that they belonged to a Guard of 300 horſe, that kept on a paſſe, within three miles of <hi>Bodnam,</hi> whereupon the Generall gave order to advance neer that place, who on their journey deſcryed where this body of the enemies horſe ſtood, who faced them for a while, but when they ſaw them make up to them, they retreated back to <hi>Bodnam:</hi> Intelligence came now to the Ge<g ref="char:EOLhyphen"/>nerall, that the two Companies of Dragoons that were ſent towards <hi>Camelford,</hi> the day before to gain the poſſeſſion of an houſe, to the intent that they being there might not fail of In<g ref="char:EOLhyphen"/>telligence, whether or no the enemy intended to break through Eaſtward, I ſay Intelligence came that theſe Dragoons were
+<pb n="46" facs="tcp:159774:27"/> in danger of ſurpriſall by a great body of the enemies horſe, who had watched their opportunity, and got betweene them and their Rendevouz: hereupon the Generall ſent a thouſand horſe to relieve them, but before they came the valiant Dra<g ref="char:EOLhyphen"/>goons had repulſed and put the Enemy to flight, and returned with the Horſe aforeſaid. The next morning the Generall drew up his Army upon a Heath, within two miles of <hi>Bodman,</hi> and ſent a party to diſcover whether the enemy were yet in the Town or not, who brought word, they had quit the Towne the night before both horſe and Foot, the Lord <hi>Hopton</hi> bring<g ref="char:EOLhyphen"/>ing up the Reare himſelf, the people of <hi>Cornwall</hi> were gene<g ref="char:EOLhyphen"/>rally poſſeſt with feare of Sir <hi>Thomas</hi> arrivall, but when they ſaw his clement and faire carriage, and that hee ſo ordered his Army, that not the leaſt outrage or villany was committed, they changed their minds, ſaying, <hi>They found them Friends, and not Enemies,</hi> The Lord <hi>Hoptons</hi> ſouldiers, after their quit<g ref="char:EOLhyphen"/>ting of <hi>Bodman</hi> committed many violent outrages, and forced the Country before them plundering all of Ability to nothing, ſo that now they began to be abhord, and ſtink in the noſtrils of the <hi>Corniſh,</hi> who now intended to break their yoake and free themſelves from the <hi>Egyptian</hi> bondage they erſt ſuſtained, they therefore unanimouſly agreed, to put themſelves under the pro<g ref="char:EOLhyphen"/>tection of the Parliament, and for them and their cauſe to live and die.</p>
+               <p>The Generall having received <hi>Bodman,</hi> thought it fit in his journey to reduce mount <hi>Edgeombe,</hi> and for that end ſent a Summons to the Governour, willing him to ſurrender the ſaid Mount into his hands for the uſe of King and Parliament, the Governour at that exceedinly ſtraighmed for proviſions, glad<g ref="char:EOLhyphen"/>ly accepted his offer on this condion, the Fort ſurrendred to disband his Regiment, and depart to his own dwelling. There were taken theſe Gentlemen whoſe names are here inſerted, who deſired to be under the protection of the Parliament.</p>
+               <list>
+                  <item>The Lord <hi>Mohan.</hi>
+                  </item>
+                  <item>Sir <hi>John Trel<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ny.</hi>
+                  </item>
+                  <item>Sir <hi>Nicholas Lower.</hi>
+                  </item>
+                  <item>
+                     <hi>Pierce Edgcombe</hi> Eſquire.</item>
+                  <pb n="47" facs="tcp:159774:27"/>
+                  <item> 
+                     <hi>William Scawer</hi> Eſquire.</item>
+                  <item>Maſter <hi>Corriton.</hi>
+                  </item>
+                  <item>
+                     <hi>William Bond</hi> Eſquire.</item>
+                  <item>
+                     <hi>Richard Edgcombe</hi> Eſquire,</item>
+                  <item>Maſter <hi>Glanvile</hi> Eſquire,</item>
+                  <item>Major <hi>Nicholas Saul,</hi>
+                  </item>
+                  <item>Captain <hi>William Bond,</hi>
+                  </item>
+                  <item>Captain <hi>Bourne.</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Lower</hi> Eſquire.</item>
+                  <item>M. <hi>Francis Saul</hi> Eſquire.</item>
+                  <item>
+                     <hi>Nathaniel Trevanion,</hi> of <hi>Tregerthen</hi> Eſquire.</item>
+                  <item>Major <hi>William Treviſa</hi> of <hi>Crookdon.</hi> Eſquire.</item>
+                  <item>
+                     <hi>John Baterſhy</hi> Eſquire.</item>
+                  <item>
+                     <hi>Richard Spur</hi> Eſquire.</item>
+                  <item>
+                     <hi>John Roe</hi> Eſquire.</item>
+                  <item>Maſter <hi>Raſhly.</hi>
+                  </item>
+                  <item>Maſter <hi>John Trevery.</hi>
+                  </item>
+                  <item>Maſter <hi>Bagley.</hi>
+                  </item>
+                  <item>Maſter <hi>Walter Hele.</hi>
+                  </item>
+                  <item>Lievtenant Col. <hi>Forteſcue.</hi>
+                  </item>
+                  <item>Major <hi>Warren.</hi>
+                  </item>
+                  <item>Sir <hi>Richard Prideaux</hi> High-ſheriff of the County.</item>
+                  <item>Alſo M. <hi>Arrundell</hi> the Pa<g ref="char:EOLhyphen"/>piſt, a man of meanes, de<g ref="char:EOLhyphen"/>ſires to be under the Par<g ref="char:EOLhyphen"/>liaments protection.</item>
+               </list>
+               <p>I ſpake a little before of the intenſions of the <hi>Corniſhmen,</hi> to ſubmit themſelves to the Parliament, proffering to riſe in arms for them, and to ſerve under their Noble Generall Sir <hi>Thomas Fairfax,</hi> now as a witneſſe of their reall intentions, they ſent one Maſter <hi>Vivian,</hi> and others with a Petition to the Generall, the contents whereof were theſe:</p>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>
+                        <hi>To the right Honourable Sir</hi> Thomas Fairfax <hi>Captain Generll of the Forces raiſed by the High Court of Parliament, under his command, and other the renowmed Worthies of the Armie.</hi>
+                     </head>
+                     <opener>
+                        <salute>Right Honorable:</salute>
+                     </opener>
+                     <p>WE though not an acceptable number of a more unaceptable County, have by Gods bleſſing ſo faire an advantage of giving our due reſpects to
+<pb n="48" facs="tcp:159774:28"/> your Honour, do with them preſent our perſons al<g ref="char:EOLhyphen"/>ſo, which we moſt unfainedly proteſt have been hi<g ref="char:EOLhyphen"/>therto by us, moſt unvoluntarily ſeparated, as our former readineſſe, and frequent endevours, to ad<g ref="char:EOLhyphen"/>vance this ſervice, beſides impriſonments, fines, or other moſt miſerable ſufferings, can evidently teſti<g ref="char:EOLhyphen"/>fie, and therefore we humbly bleſſe the great Lord of Hoſts, by whoſe providence you are made ſuch victorious Inſtruments of our deliverance from ſuch intolerable bondage, and next to our great and wiſe Counſell, by whoſe publike care and miſſion, wee have the happineſſe this day to ſee you conquerours, for the preſervation of our religion ſo long violated, and reſtitution of our liberty ſo long inthralled: nei<g ref="char:EOLhyphen"/>ther may wee omit a gratefull acknowledgment of the unattempted valour and vigilancy which hath been ſo magnanimouſly exerciſed for the reducing of this unhappy Kingdome, from the wofull conditi<g ref="char:EOLhyphen"/>on of a blody war, to ſo faire hopes of an aſſured and happy peace: and ſince it hath pleaſed God, thus to bleſſe us, we preſume not to motion, through diffe<g ref="char:EOLhyphen"/>rence their future care of his glory, and of the Com<g ref="char:EOLhyphen"/>mon-wealths good, having ſo many rare examples of your readineſſe to defend both: however give us leave as a people, that to our great grief and miſery, have a long time wanted the happy influence and e<g ref="char:EOLhyphen"/>quity of the Laws to mention our deſires of their re<g ref="char:EOLhyphen"/>paration, whereby alſo to diſtinguiſh our ſelves from thoſe, who have with an high hand endevoured to ſubvert them, and as hitherto have not wanted our prayers to God for a bleſſing on your Counſels and actions: So now your Honour ſhall not want the rea<g ref="char:EOLhyphen"/>dy
+<pb n="49" facs="tcp:159774:28"/> though weak aſſiſtance of our lives and fortunes, &amp;c.</p>
+                  </body>
+               </floatingText>
+               <p>The wonderfull and admirable providence of God, in ſo ſhort a time to turn the hearts of an averſe and diverſovelent people, and to make them become plyable, conformable and deſirous of that good, of that good which before they contem<g ref="char:EOLhyphen"/>ned and abhorr'd, the renowmed Generall Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> having purſued, ore taken, and almoſt ſurrounded the ene<g ref="char:EOLhyphen"/>my, commanded by the Lord <hi>Hopton,</hi> who ſince his laſt diſ<g ref="char:EOLhyphen"/>comfiture at <hi>Torrington,</hi> had recruited and made up a more nu<g ref="char:EOLhyphen"/>merous Army then before, thought it good, no doubt, moved by the ſpirit of God thereto to ſend him a ſummons, the accep<g ref="char:EOLhyphen"/>tance whereof might hinder the inevitable ruin that elſe would happen on both ſides: the ſummons this.</p>
+               <floatingText xml:lang="eng" type="summons">
+                  <body>
+                     <opener>
+                        <salute>Sir, </salute>
+                     </opener>
+                     <p>the goodneſſe of God to his people, and his juſt hand a<g ref="char:EOLhyphen"/>gainſt <note place="margin">
+                           <hi>Hopton</hi> ſum<g ref="char:EOLhyphen"/>moned.</note> their enemies your forces, being reduced to ſuch a con<g ref="char:EOLhyphen"/>dition as to my ſenſe, the ſame hand of God continuing with us, they are not likely to have ſubſiſtance, or ſhelter long, or to ſcape thence, or if they could have whither to go for better, I have thought good for the preventing of more bloudſhed, or of further hardſhip or extremity, to any but ſuch whoſe hearts, God ſhall harden to their deſtruction, to ſend you this ſummons for your ſelfe and them to lay down their Arms, withall a ten<g ref="char:EOLhyphen"/>der of ſuch conditions, as upon preſent ſurrender, and an en<g ref="char:EOLhyphen"/>gagement never more to beare Armes againſt the Parliament, it may be better then any thing they can rationally expect, by farther ſtanding out.</p>
+                     <p>Firſt, therefore to Souldiers in generall, whether Engliſh or Forraigner, I ſhall grant liberty either to goe beyond ſea, or to their homes in <hi>England,</hi> as they pleaſe, and to ſuch as En<g ref="char:EOLhyphen"/>gliſh, as ſhall chuſe to live at home, my protectton for the li<g ref="char:EOLhyphen"/>berty of their perſons, and for the immunity of their eſtates, and all to go their ways with what they have, ſave their hor<g ref="char:EOLhyphen"/>ſes and ſword.</p>
+                     <pb n="50" facs="tcp:159774:29"/>
+                     <p> But for the Officers in commiſſion, and Gentlemen of qua<g ref="char:EOLhyphen"/>lity I ſhall allow them to go with Horſes for themſelves, and one ſervant or more ſuitable to their quality, and with armes befitting Gentlemen in a condition of peace.</p>
+                     <p>To all Troopers and the inferiour Horſe Officers bringing and delivering up their horſes and arms 20 ſhillings in liew of their horſes, to carry them home.</p>
+                     <p>To <hi>Engliſh</hi> Gentlemen of conſiderable eſtates, my paſſe and recommendation to the Parliament, for their moderate com<g ref="char:EOLhyphen"/>poſition.</p>
+                     <p>Laſtly for your ſelf, beſides what is before implyed to you in common with others, you may be aſſured of ſuch mediation to the Parliament on your behalfe, both from my ſelfe and o<g ref="char:EOLhyphen"/>thers, as one whom for many gifts and perſonall worth wee e<g ref="char:EOLhyphen"/>ſteem above any other of your party, ſuppoſing you more ſwayed with principles of honour and conſcience, wee moſt pitty, and whoſe happineſſe ſo far as is conſiſtent with the pub<g ref="char:EOLhyphen"/>like welfare, we ſhould delight in more then in our long ſuf<g ref="char:EOLhyphen"/>ferings.</p>
+                     <p>Theſe things not from any need or other end then humane, having offered I leave to your conſideration, and thoſe whom they concern. Deſiring yours and their ſpeedy reſolving, which I pray may be ſuch as may be moſt for the honour of God, and welfare of this poor Kingdome. </p>
+                     <closer>
+                        <signed>Thomas Fairfax.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This ſummons being ſent by a Trumpetter, to the Lord <hi>Hopton,</hi> he received it with meekneſſe, and uſed the Trum<g ref="char:EOLhyphen"/>petter very courteouſly, and dimiſſed him with this that hee would ſend an Anſwer, by a Trumpetter of his own, which the next day he failed not to do, the Generall peruſing the Letter, found the contents thereof, ſuch as emplyed a willingneſſe to end the buſineſſe of the Weſt without more bloudſhed, alſo he deſired in his letter Commiſſioners ſhould be appointed on both ſides to meet together, and treat of their concluſion and finall agreement, ſee at large in the next Book.</p>
+               <trailer>The end of the ſecond Book.</trailer>
+            </div>
+         </div>
+         <div n="3" type="book">
+            <pb n="51" facs="tcp:159774:29"/>
+            <head>THE YEARE OF JUBILE: The third Book.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Sir</hi> Thomas Fairfax <hi>concluſion and finall agreement with the Lord</hi> Hopton, <hi>for the disbanding his for<g ref="char:EOLhyphen"/>ces and ſubmitting to the</hi> Parliament, <hi>the Articles of Agreement betwixt Sir</hi> Thomas Fairfax <hi>and him.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hough wee muſt confeſſe, and ought with all thankfulneſſe and humility to acknowledge, that the mercies of God in aſſiſting the forces of the Parliament, fighting for his cauſe have been ma<g ref="char:EOLhyphen"/>ny and great, yet not any one of them, as I may ſpeak with reverence, may be compared, or were equivalent to this great favour of God, that hee ſhould give the Generall of the enemy an heart, <hi>not being plunged in any great or extra<g ref="char:EOLhyphen"/>ordinary miſery, not wanting a conſiderable and ſtrong party:</hi> which according to the beſt information, and by the confeſſi<g ref="char:EOLhyphen"/>on of our enemies; was not leſſe then foure, ſome will have them five thouſand horſe, that thereby not only ſo great a body
+<pb n="52" facs="tcp:159774:30"/> of Cavalry was broken, but ſo many both Officers and Soul<g ref="char:EOLhyphen"/>diers, diſobliged from taking armes, and at ſuch a time, when they expected a forreigne ayde to joyne with them, I ſay that God ſhould do ſo for us, and make him to compound, may convince the moſt malignant ſpirit, and give notice to the whole world, the Parliaments reall intentions: but to our Hi<g ref="char:EOLhyphen"/>ſtory.</p>
+               <p>I ſpake before of the Lord <hi>Hoptons</hi> deſiring Commiſſioners, might be appointed on both ſides to treat, which the Generall Sir <hi>Thomis Fairfax</hi> willingly agreed to, and nominated in the behalf of himſelf theſe, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>Colonell <hi>Ireton,</hi>
+                  </item>
+                  <item>Colonell <hi>Lambert,</hi>
+                  </item>
+                  <item>Colonell <hi>Aubin,</hi>
+                  </item>
+                  <item>Comiſſary Generall <hi>Stane,</hi>
+                  </item>
+                  <item>Captain <hi>Edward Herle, Richard Dean</hi> Comptroller of the Ordnance.</item>
+               </list>
+               <p>On the behalf of the Lord <hi>Hopton</hi> theſe:</p>
+               <list>
+                  <item>Col. <hi>Charles Goring,</hi>
+                  </item>
+                  <item>Col. <hi>Marcus Trevor,</hi>
+                  </item>
+                  <item>Col. <hi>Thomas Panton,</hi>
+                  </item>
+                  <item>Col. <hi>John Bovill,</hi>
+                  </item>
+                  <item>Sir <hi>Richard Prideaux,</hi>
+                  </item>
+                  <item>Major <hi>Got<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>re,</hi>
+                  </item>
+               </list>
+               <p>During the Treaty, and before the Articles were confirmed and ratified by the Commiſſioners on both ſides, theſe Gentle<g ref="char:EOLhyphen"/>men came to the Generall Sir <hi>Thomas Fairfax,</hi> and deſired to be under the protection of the Parliament.</p>
+               <list>
+                  <item>33 Lievtenant Colonels,</item>
+                  <item>Sejeant Majors and Captains,</item>
+                  <item>Forty Gentlemen of quality,</item>
+                  <item>The Gover. of <hi>Mans</hi> C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</item>
+               </list>
+               <p>Alſo the <hi>Corniſh</hi> ſouldiers proſtrating their arms and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at the Generals feet, proteſted that they would never be wrought or perſwaded, by any whatſoever for the future, to fight againſt the Parliament.</p>
+               <p>The Lord <hi>Hoptons</hi> ſouldiers, eſpecially the Forreigners hea<g ref="char:EOLhyphen"/>ring of the noble proffer that the Parliements Generall Sir <hi>Thomas Fairf<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> had made, preſt on <hi>Hopton,</hi> and urged him with vehemency to accept of the rare offer, which hee did not, or to ſay truth, <hi>Durſt not gainſay,</hi> but ſending another Letter to Sir <hi>Thomas,</hi> deſiring him to haſten, and that the Articles
+<pb n="53" facs="tcp:159774:30"/> being penned might be ratified and confirmed, the Generall though if he would have been rigorous and implacable, conſi<g ref="char:EOLhyphen"/>dering the former fury and rage of the enemy, he might at his pleaſure have killed or taken them, yet he would not give way to paſſion or revenge, eſteeming it a diſparagement to his Ho<g ref="char:EOLhyphen"/>nour, to inſult over a dejected or diſabled foe: the Heathen could of that nobleſt of beaſts,</p>
+               <l>Magnanimo, ſatis eſt praedam proſtraſſe Leoni,</l>
+               <l>Pugnaſuam finem, cum jacet hoſtes habet.</l>
+               <p>Paraphraſed:</p>
+               <l>The noble Lion doth his power lay by,</l>
+               <l>And counts it glory, if his foe he hath</l>
+               <l>Brought low, and ſcorns to hurt his enemy</l>
+               <l>If he ſubmit: he will not harbour wrath.</l>
+               <div type="articles">
+                  <head>The Articles between the Lord <hi>Hopton,</hi> and Sir <hi>Thomas Fairfax</hi> were theſe.</head>
+                  <div n="1" type="article">
+                     <head>1.</head>
+                     <p>THat the Army and Forces under the command of the Lord <hi>Hopton,</hi> ſhall within ſix days after the date hereof be wholy diſbanded and diſcharged by the Lord <hi>Hopton,</hi> and the Generals, Colonels, Captains, and allother Officers, according to the ſeverall charges hereafter expreſſed.</p>
+                  </div>
+                  <div n="2" type="article">
+                     <head>2.</head>
+                     <p>That all Troopers, Corporals of Horſe, Farriers and Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>lers, ſhall bring in, and deliver up their Horſes, with bridles, ſad<g ref="char:EOLhyphen"/>dles, and all the arms unto his Excellency Sir <hi>Thomas Fairfax,</hi> or whom he ſhall appoint, that all Troopers and Corporals, that ſhall appeare Gentlemen of worth, ſhall be allowed to carry with them their ſwords.</p>
+                  </div>
+                  <div n="3" type="article">
+                     <head>3.</head>
+                     <p>That upon performance hereof they ſhall receive 20 ſhillings a man, and ſhall have paſſes if they pleaſe to go beyond Sea.</p>
+                  </div>
+                  <div n="4" type="article">
+                     <pb n="54" facs="tcp:159774:31"/>
+                     <head>4.</head>
+                     <p>That thoſe Commiſſion Officers of Horſe under the Lord <hi>Hopton,</hi> and all Trumpetters belonging to them, ſhall have li<g ref="char:EOLhyphen"/>berty either to goe to their on homes in <hi>England,</hi> or beyond the Seas, with their bag and baggage, and ſhall have ſuch number of Horſe and Equipage, as is hereafter allowed, according to their ſeverall qualities.</p>
+                  </div>
+                  <div n="5" type="article">
+                     <head>5.</head>
+                     <p>That is to ſay,</p>
+                     <p>For thoſe that ſhall chuſe to go beyond the Seas, the full num<g ref="char:EOLhyphen"/>ber of horſes, and five arms, if they have ſo many of their own.</p>
+                     <l>To Trumpetters one horſe a piece, and their trumpets.</l>
+                     <l>To Quartermaſters two horſes, and one caſe of Piſtols.</l>
+                     <l>To Cornets three horſes, and two caſe of Piſtols.</l>
+                     <l>To Lievtenants foure horſes, and three caſe of Piſtols.</l>
+                     <l>To Captains, Majors, and Lievtenant Colonels ſix horſes a<g ref="char:EOLhyphen"/>piece, and foure caſe of Piſtols.</l>
+                     <l>To Colonels eight horſes, and ſix caſe of Piſtols.</l>
+                     <l>To the adjutant Generall ſix horſes, and foure caſe of Piſtols.</l>
+                     <l>To the other adjutants, of Brigades three horſes apiece, one caſe of Piſtols.</l>
+                     <l>To the Major Generall twelve horſes, and ſix caſe of Piſtols.</l>
+                     <l>To the Scout-maſter Generall ſix horſes, one caſe of Piſtols.</l>
+                     <l>To the Quarter-maſter Generall four ſix horſes, two caſe of Piſtols.</l>
+                     <l>To the Martiall Generall four horſes, one caſe of Piſtols.</l>
+                     <l>To the Comiſſary Generall of horſe-proviſions, three horſes, and a caſe of Piſtols, &amp;c.</l>
+                     <p>
+                        <hi>Every Officer having Arms and Horſes more or leſſe accord<g ref="char:EOLhyphen"/>ing to his degree, which were needleſſe and tedious to expreſſe, being ſubſcribed unto by the Commiſſioners on both ſides, and heſtages given and received for the true performance: the Lord</hi> Hopton <hi>disbanded.</hi>
+                     </p>
+                     <p>
+                        <hi>The news whereof ſo much diſcouraged Col.</hi> Trevanton, <hi>Go<g ref="char:EOLhyphen"/>vernour of the Fort and Harbour at</hi> Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rin, <hi>that hee ſent to the Generall, deſired to ſurrender, and prayed that hee might</hi>
+                        <pb n="55" facs="tcp:159774:31"/> 
+                        <hi>be included in the Treaty with the Lord</hi> Hopton, <hi>and enjoy the benefit of the Articles agreed, or, for the diſſolving of</hi> Hop<g ref="char:EOLhyphen"/>tons <hi>Army, by which means the Weſt was cleered of a Field Army, and the hearts of the Royall Party did quail.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>Sir</hi> Thomas Fairfax <hi>receiveth the famous City of</hi> Ex<g ref="char:EOLhyphen"/>ceter <hi>by compoſition, and begirteth the City of</hi> Ox<g ref="char:EOLhyphen"/>ford, <hi>with a ſtrong ſiedge.</hi>
+               </head>
+               <p>HAving brought our famous and renowrned Generall Sir <hi>Thomas Fairfax,</hi> to the Walls of the chiefe and grand Gariſon, of the enemy, the City <hi>Oxford,</hi> hee having by Gods aſſiſtance, all others of worth and validity: So that now the cauſe of God, and the Defenders of his Truth are exalted, and his enemies ſubdued and brought low. It is meet I ſhould give thanks to God, and laud his name for his ſo great mercies.</p>
+               <floatingText xml:lang="eng" type="hymn">
+                  <body>
+                     <head>An Hymne to GOD.</head>
+                     <lg>
+                        <l>O Thou who art Etern, from whoſe bright eye nothing can hidden lye:</l>
+                        <l>
+                           <hi>Who rul'ſt the things above, and oke below, And all mens hearts doſt know.</hi>
+                        </l>
+                        <l>
+                           <hi>Enter my frozen breſt, and let there be A warmth infus'd in me</hi>
+                        </l>
+                        <l>
+                           <hi>That I may laud thy Name, as it is meet,</hi> Extoll thy mercies ſweet.</l>
+                        <l>
+                           <hi>Firſt, that thou Lord wert pleaſed for to give An heart to ſome to ſtrike:</hi>
+                        </l>
+                        <l>
+                           <hi>And ſeek thy glory, when alas we thought In bondage to be brought.</hi>
+                        </l>
+                        <pb n="56" facs="tcp:159774:32"/>
+                        <l> 
+                           <hi>And when we trembled, theſe things for to ſee,</hi> Adhered to Popery<g ref="char:punc">▪</g>
+                        </l>
+                        <l>
+                           <hi>Next that thou haſt been pleaſed for to bleſſe, And crown with good ſucceſſe</hi>
+                        </l>
+                        <l>
+                           <hi>Their juſt endevours, ſo that now we may Serve thee without gainſay.</hi>
+                        </l>
+                        <l>
+                           <hi>And haſt ſubdued thy foes, ſo that theirs non<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Thy truth to tread upon.</hi>
+                        </l>
+                        <l>
+                           <hi>Go on our God, we pray, and crown the and, Thy goodneſſe ſtill extend.</hi>
+                        </l>
+                        <l>
+                           <hi>So ſhall thoſe that hare thy ways convicted be, To ſee how wondrouſly:</hi>
+                        </l>
+                        <l>
+                           <hi>Thou haſt ſupported us through dangers, great, And troubles that didſt threat.</hi>
+                        </l>
+                        <l>
+                           <hi>But let not us, we thee entirely pray, Be not brought unto decay.</hi>
+                        </l>
+                        <l>By <hi>Davids</hi> Diviſion, <hi>but ſo order thou And ſuch prudence allow</hi>
+                        </l>
+                        <l>Unto the State of <hi>England,</hi> that they may Be able for to ſtay</l>
+                        <l>Ayded by thee, all ills, that elſe would hap, Are laid us to intrap:</l>
+                        <l>
+                           <hi>That having ſetled thy true worſhip, We</hi> May have CONFORMITIE.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+               <p>We ſpake afore in the fourth Chapter of the ſecond Book, how the Generall having left a ſtrong party to block up <hi>Ex<g ref="char:EOLhyphen"/>ceter,</hi> advanced after <hi>Hopton</hi> into <hi>Cornwall,</hi> and having obtai<g ref="char:EOLhyphen"/>ned a bloudleſſe Victory over him, and ſetled <hi>Cornwall</hi> under the Parliaments protection, he returned with his whole Army from the Weſt, and finding the City of <hi>Exceter</hi> not yet redu<g ref="char:EOLhyphen"/>ced to the obedience of the Parliament, he drew up his Army before it, and ſent the <note n="a" place="margin">Sir <hi>Iohn Be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kley.</hi>
+                  </note> Governour this Summons.</p>
+               <p>Sir, being retured with my Army from the Weſt, where it pleaſed God to beſtow a dry and bloudleſſe Victory upon mee, to the great peace and quiet of thoſe parts, and conceiving it
+<pb n="57" facs="tcp:159774:32"/> my duty likewiſe to endevour the good of this County, which by occaſion of your Gariſon, is neceſſarily obſtructed, I thought fit once more to ſend you a ſummons, to deliver up to me the City of <hi>Exceter,</hi> with the Caſtle, Forts, Armes and Amunition, believing by this you are ſatisfied of the relief you expected of the Princes Army, &amp; may equally be of any reliefe, to come from any other place if your intelligence and know<g ref="char:EOLhyphen"/>ledge, were the ſame with ours, there is nothing more indu<g ref="char:EOLhyphen"/>ceth me hereunto, then an unfained zeale, to ſave any further bloudſhed, and as much as in mee lyes to preſerve that City, which hath already ſuffered deeply, in theſe unnaturall diſtra<g ref="char:EOLhyphen"/>ctions, though I ſhall not boaſt of my number or ſtrength, yet I muſt needs tell you that I doubt not but the ſame power, which hath formerly made difficult things eaſie will anſwer this, and will quit mee from being counted the occaſioner of thoſe inconveniences and miſeries that will neceſſarily enſue upon your refuſall: Sir, I ſhall expect your ſpeedy and poſitive Anſwer, I reſt your Servant, <hi>Thomas Fairfax.</hi>
+               </p>
+               <p>Sir <hi>Iohn Berkley</hi> upon receit of this Summons, called a Coun<g ref="char:EOLhyphen"/>cell of Warre, who after long debate, concluded that Com<g ref="char:EOLhyphen"/>miſſioners ſhould be choſen to treat, whereof one part ſhould be for the Gentry, another for the Souldiery, a third part for the Clergy, and the fourth part for the inhabitants of the City, the Commiſſioners nominated; they ſent their intentions to Sir <hi>Thomas,</hi> he yielded thereto, and appointed a place of meeting to be at <hi>Poultermore</hi> houſe, three miles from <hi>Exceter,</hi> the Commiſſioners on the behalfe of his Excellency Sir <hi>Thomas Fairfax</hi> were theſe:</p>
+               <list>
+                  <item>Lievtenant Generall <hi>Hamond.</hi>
+                  </item>
+                  <item>Colonell, Sir <hi>Hardreſſe Waller.</hi>
+                  </item>
+                  <item>Colonell <hi>Lambert.</hi>
+                  </item>
+                  <item>Colonell <hi>Harley.</hi>
+                  </item>
+                  <item>Colonell <hi>Pry.</hi>
+                  </item>
+                  <item>Commiſſary <hi>Stane.</hi>
+                  </item>
+               </list>
+               <p>The Governour Sir <hi>John Berkley</hi> appointed theſe.</p>
+               <list>
+                  <item>Sir <hi>Henry Berkley.</hi>
+                  </item>
+                  <item>Sir <hi>George Carry.</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="58" facs="tcp:159774:33"/>
+                  <item>Col. <hi>Will. Aſhburnham,</hi>
+                  </item>
+                  <item>Col. <hi>Godolphin,</hi>
+                  </item>
+                  <item>Cap. <hi>Fitzgarret,</hi>
+                  </item>
+                  <item>Maſter <hi>John Weres,</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Walker,</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Knight,</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Kendall,</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Foord,</hi>
+                  </item>
+                  <item>Sir <hi>John Berkley.</hi>
+                  </item>
+               </list>
+               <p>The day appointed, the Commiſſioners met at the place a<g ref="char:EOLhyphen"/>foreſaid, two for the Gentry, two for the Soulderie, two for the Clergie, and two for the Inhabitants of the City, and Sir <hi>Thomas</hi> his Commiſſioners aforenamed, Articles were perfor<g ref="char:EOLhyphen"/>med as agreed on, and the City delivered unto His Excellen<g ref="char:EOLhyphen"/>cie Sir <hi>Thomas Fairfax,</hi> there were found therein</p>
+               <list>
+                  <item>30 Peeces of Ordnance,</item>
+                  <item>3 Murthering peeces,</item>
+                  <item>100 Barrels of powder,</item>
+                  <item>500 Muskets,</item>
+                  <item>100 Pikes,</item>
+                  <item>80 Tun of wine.</item>
+               </list>
+               <p>Sir <hi>John Berkley</hi> marched out of <hi>Exceter</hi> with 200 of the e<g ref="char:EOLhyphen"/>nemie towards <hi>Oxford,</hi> which place he had nominated for his refuge Gariſon.</p>
+               <p>The Parliament knowing that the Princeſſe <hi>Heneretta Ma<g ref="char:EOLhyphen"/>ria</hi> with her Governeſſe reſided in this City, gave the Gene<g ref="char:EOLhyphen"/>rall notice, ſhee ſhould goe with a ſufficient convoy, with their plate, money, and goods, whereſoever her Governeſſe plea<g ref="char:EOLhyphen"/>ſed,
+<pb n="59" facs="tcp:159774:33"/> the King hearing hereof deſired ſhee might be at <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> which was aſſented to.</p>
+               <p>From <hi>Exceter</hi> Sir <hi>Thomas Fairfax</hi> was deſired by the Hou<g ref="char:EOLhyphen"/>ſes of Parliament, to advance for <hi>Oxford,</hi> and to lay ſiege to it, and God aſſiſting to take it, at that preſent his Majeſty being in perſon there, the reaſon, <hi>he had no place of ſtrength elſe to be in,</hi> ſome Lords exempted from mercie in the propoſitions to be ſent to the King for peace, deſired the King to paſſe with them out of Oxford ere the ſiege was planted: Anſwer was re<g ref="char:EOLhyphen"/>turned by ſome other Lords, that the King needed not to feare ſo ſodain a ſiege yet, but notwithſtanding when they ſaw Sir <hi>Thomas</hi> in truth intended the ſiege, all of them were deſirous to have him gon, peradventure hoping thereby, <hi>to make the better conditions for themſelves.</hi>
+               </p>
+               <p>However, the King left <hi>Oxford,</hi> it was ſaid by ſome hee went towards <hi>Wales,</hi> and ſo for <hi>Ireland,</hi> others for the North, and ſo towards <hi>Montroſſe,</hi> but the Houſe of Commons <hi>Apr.</hi> 9. received intelligence that the King in a private manner depar<g ref="char:EOLhyphen"/>ted out of <hi>Oxford,</hi> his beard ſhaven cloſe, and not after his wonted manner, his own hair turned up, and a periwig on his head, of a black colour, accompanied onely with three, and one of them his Majeſty wayted on, after the manner of a Serving<g ref="char:EOLhyphen"/>man.</p>
+               <p>His boſom friend the Duke of <hi>Richmond,</hi> the Earle of <hi>Lind<g ref="char:EOLhyphen"/>ſey,</hi> the Kings Cup-bearer, Sir <hi>William Fleetwood,</hi> The Kings Standard-bearer and Knight Marſhall, Sir <hi>Edward Syden<g ref="char:EOLhyphen"/>ham,</hi> and Mr. <hi>Carew</hi> of the bed chamber, came to Colonell <hi>Ramſborough,</hi> and caſt themſelves on the mercie of the Parli<g ref="char:EOLhyphen"/>ament, who ordered they ſhould be committed as priſoners to <hi>Warwick</hi> Caſtle.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="60" facs="tcp:159774:34"/>
+               <head>CHAP. III. <hi>Sir</hi> Thomas Fairfax <hi>receiveth</hi> Boſtell <hi>Gariſon by com<g ref="char:EOLhyphen"/>poſition, likewiſe</hi> Oxford <hi>and</hi> Farrington, <hi>the Ar<g ref="char:EOLhyphen"/>ticles agreed on for the ſurrender of each of them.</hi>
+               </head>
+               <p>NOw gins the impetuous ſhock of War to abate its ſtrength and fury, and as the tyred Gariſons yet un<g ref="char:EOLhyphen"/>taken do faint and quail, <hi>(ſo gathers</hi> England <hi>ſpi<g ref="char:EOLhyphen"/>ret and new life)</hi> thou that haſt honoured thoſe that honour thee, and thoſe that regarded thee not thou hall lightly eſteemed, what dull and Lethargick humour puzels our ſenſe, that yet wee fare as thoſe <hi>Iſraelites,</hi> who having van<g ref="char:EOLhyphen"/>quiſht their foes, fled from their own ſhadows, why ſing wee not <hi>Hymnes</hi> to the higheſt, and out-joy joy it ſelf? knowing that what our forefathers durſt not imagine, our ſelves ſome yeers paſt deſpaired to attain, is now accrued: and God aſſiſt<g ref="char:EOLhyphen"/>ing like to continue to the incredible good of our poſterity. What ſpirit of diffention tyrannizeth over the minds of ſome, that they inſtead of giving Thanks, they have not been devou<g ref="char:EOLhyphen"/>red by the <hi>All-devouring Sword?</hi> murmur and repine that they are impedited from following after their <hi>Ignes fatuus,</hi> which will lead them to the whirl-poole of decay: and as if they envied their own happineſſe. Some inſtead of honouring and putting their hands under their feet to do them good, who have under God been the ſavers of their lives and ſtates: I ſay inſtead of ſo doing, ſome ſtick not to accuſe thoſe worthy and ever to be renowmed Patriots the Houſe of Peers, as deſi<g ref="char:EOLhyphen"/>rous of Illegall and Tyrannicall power, rail againſt their So<g ref="char:EOLhyphen"/>vereigne, whom though he hath been led away to the hurt of his people by his and their enemies, yet we hope that the ſpirit of diſaffection abandoned, hee may yet comply with his and their Countries lovers, and put to his helping hand for the re<g ref="char:EOLhyphen"/>pairing of <hi>Sions</hi> breaches, and make them ſtronger then before,
+<pb n="61" facs="tcp:159774:34"/> but all this time I ſhall but delay the Reader from more plea<g ref="char:EOLhyphen"/>ſing diſcourſe.</p>
+               <p>Sir <hi>Thomas Fairfax</hi> having ſent a Summons to the Gover<g ref="char:EOLhyphen"/>nour of <hi>Boſtoll</hi> Gariſon, Sir <hi>William Campion Britanicus</hi> once tearmed him the brother of <hi>Campion</hi> the Jeſuit whether or no is not materiall, at firſt hee was ſome thing peremptory in his anſwer, but by degrees he declined, and began to talke of ac<g ref="char:EOLhyphen"/>commodation, Commiſſioners on both ſides were appointed to treat, and to agree on Articles for the ſurrender of the Ga<g ref="char:EOLhyphen"/>riſon.</p>
+               <p>The Commiſſioners for Sir <hi>Thomas Fairfax</hi> were
+<list>
+                     <item>Quartermaſter Generall <hi>Gravener,</hi>
+                     </item>
+                     <item>Major <hi>Hariſon,</hi>
+                     </item>
+                     <item>Major <hi>Huntington,</hi>
+                     </item>
+                     <item>Major <hi>Shilborn.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Commiſſioners for Sir <hi>William Campion</hi> were
+<list>
+                     <item>Sir <hi>George Anglingby,</hi>
+                     </item>
+                     <item>Captain <hi>George Kingſbey,</hi>
+                     </item>
+                     <item>Captain <hi>David Wyrell,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Campion.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Theſe Commiſſioners being met, after ſometime of Debate they came to a concluſion, and agreed on Articles for the ſur<g ref="char:EOLhyphen"/>render of the Gariſon, with all the Ordnance, Arms and Am<g ref="char:EOLhyphen"/>munition, the heads of the Articles theſe.</p>
+               <p n="1">1 <hi>THat the Gariſon of</hi> Boſtoll <hi>with all the Ordnance, Arms, and Ammunition, and all other proviſions and furniture of War be delivered to his Excellency Sir</hi> Thomas Fairfax.</p>
+               <p n="2">2 <hi>That the Governour with his proper ſervants, and all Offi<g ref="char:EOLhyphen"/>cers in Commiſſion and Gentlemen ſhall march away with their Horſes, Arms, and Goods, properly belonging to them.</hi>
+               </p>
+               <p n="3">3 <hi>That all thoſe that deſire to make compoſition with the Par<g ref="char:EOLhyphen"/>liament, ſhall have the Generals effectuall recommendation.</hi>
+               </p>
+               <p n="4">4 <hi>That all thoſe that are deſirous to go over beyond the Seas, ſhall have the Generals paſſe for that purpoſe.</hi>
+               </p>
+               <div type="digression">
+                  <head>To the Schollers of the now ſurrendred <hi>Oxford.</hi>
+                  </head>
+                  <p>RAve not nor be diſcontented ye men of Art, <hi>Mars</hi> hath a long time uſurped even the Muſes Bower, <hi>Clio</hi> and her ſi<g ref="char:EOLhyphen"/>ſters
+<pb n="62" facs="tcp:159774:35"/> have ſate weeping, <hi>Apollo</hi> having thrown away his Harp, deſpaired ever to ſtrike on his Lyre, but now the ſurly Muſick of the Drum, horrid to female cares leaves talking, they will reſume their priſtinate order, and chant as loud as ever before.</p>
+                  <p>Why ſhould you lament, or wearing your gowns onely on one ſhoulder, your arms folded with all, to ſee you ſhall en<g ref="char:EOLhyphen"/>joy your ancient rights, and receive not the leaſt damage by be<g ref="char:EOLhyphen"/>ing under the power of Parliament?</p>
+                  <p>What though you part with your Organs, whoſe enchanting melody you whilome ſo highly advanced, the harmony of your well tuned voyces, will equall if not excell the other, and God will be better pleaſed there with?</p>
+                  <p>What though the gorgeous Copes be out of faſhion, and men are ſo far enlightned, that they deſire not to ſee one repre<g ref="char:EOLhyphen"/>ſenting <hi>Caiphas</hi> kneeling before an Altar by Taper-light, and mumbling to himſelfe Mattins not worth the hearing? Is it not worth the hearing, is it not better to ſee on kneeling, clad in plain black cloth, making an oration to God pithy and pious? What though your Croſſes are demoliſht, and the pictures of dead Saints removed, alas, this will occaſion you no damage at all, never doubt but croſſes enough will cleave to you more then you would, for as that holy Apoſtle, the Holy Ghoſt witneſſeth, ſaith he, <hi>that bonds and afflictions attend me,</hi> ſo I and you and you may ſay, that experience teacheth, that poverty is the pa<g ref="char:EOLhyphen"/>trimony of the Muſes, and that troubles and neglect, contume<g ref="char:EOLhyphen"/>lies and vilifyings attend the learned, but bark on you Wolf-fac'd worldlings, as the heighth of the Moone ſurpaſſeth the earth, ſo far different are you in worth from the knowing, handſome pictures, walking ſhadows, and indeed comely beaſts, but I run the hazard of ſevere cenſure from ſome ſhal<g ref="char:EOLhyphen"/>low Critick. Now to my Hiſtory.</p>
+               </div>
+               <div type="continuation_of_chapter">
+                  <p>Sir <hi>Thomas</hi> as aforeſaid having begirt the City of <hi>Oxford</hi> with a ſtrong ſiege, his wiſdom in managing Military Affairs for the reducement thereof is to be admired, to ſpeak of <hi>Oxford,</hi> it was very ſtrongly fortified (ſhould I erre if I ſaid impregna<g ref="char:EOLhyphen"/>ble, the chiefeſt Town of ſtrength the King had: a ſummons
+<pb n="63" facs="tcp:159774:35"/> being ſent into the Governour Sir <hi>Thomas Glemham,</hi> but ſlight ed, the Generall called a Councell of warre to conſult what courſe would be moſt expedient for the preſent, ſome talked of ſtorming, others of ſtarving them out, but the prudent and re<g ref="char:EOLhyphen"/>nowmed Generall maturely conſidering the ſtrength of the Town which he knew was ſo fortified, that it was almoſt un<g ref="char:EOLhyphen"/>acceſſible, next their proviſions of victuals in the Towne, which he was certainly informed would laſt them ſix months. And thirdly, conſidering that the propounding honourable terms might ſave the bloudſhed would inevitably follow by aſ<g ref="char:EOLhyphen"/>ſauking the Town, and impede the ruine and deſtruction of ſo famous a City: I ſay on theſe conſiderations, the Generall with the conſent of all his Officers in chief, ſent them Articles, and an exhortation to yield on terms, the Governour accepted the proffer of treating, and <hi>Marſton</hi> was the place appointed where the Commiſſioners were to meet and treat, the Commiſ<g ref="char:EOLhyphen"/>ſioners on both ſides met, and after ſome days ſpent in <hi>pro</hi> and <hi>con</hi> at length theſe Articles were aſſented to and hoſtages given on both ſides for their true performance, the Articles theſe.</p>
+                  <floatingText xml:lang="eng" type="articles">
+                     <body>
+                        <p n="1">1 <hi>THe Duke of</hi> York <hi>is to have liberty to come to</hi> London; <hi>with attendance and neceſſaries fit for his Highneſſe his Majeſty is to have notice of it, and his Highneſſe is to remaine at ſuch a place, with ſuch attendance as the Parliament ſhall appoint, within the compaſſe of foureſcore miles of</hi> London.</p>
+                        <p n="2">2 <hi>The two</hi> German <hi>Princes, to have Paſſes to go beyond Sea, not to come within</hi> 20 <hi>miles of</hi> London, <hi>nor remaine in</hi> England <hi>above foure Monethes, nor do no act againſt the Parliament.</hi>
+                        </p>
+                        <p n="3">3 <hi>Sir</hi> Thomas Glemham, <hi>and all other Commanders, Officers, and Souldiers, to march out with Horſe, Armes, Colours, Trum<g ref="char:EOLhyphen"/>pets, Drums, Matches light, and Bullets in their mouths, every Souldier to have</hi> 12. <hi>Charges of ponder, and their proper Goods, and ſo to march</hi> 15. <hi>miles whither Sir</hi> Thomas Glemham <hi>will, and there to lay downe their Armes and deliver them to his Ex<g ref="char:EOLhyphen"/>cellency, or to whom he ſhall appoint, and as many as will are to go to the owne dwellings.</hi>
+                        </p>
+                        <p n="4">
+                           <pb n="64" facs="tcp:159774:36"/> 4 <hi>That all Officers and Souldiers and others, that ſhall go to their own homes ſhall act nothing to the prejudice of the Parlia<g ref="char:EOLhyphen"/>ment, and are to have Paſſes for their protection, &amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>That they ſhall have free quarter in their march to their own dwellings. That each man ſhall carry with him that which is his proper goods: that any Officer or Souldier that ſhall have deſire to ſerve any forraigne Prince ſhall have paſſe to go, and free quarter for 28 dayes, That ſuch ſhall have liberty to paſſe to</hi> Lon<g ref="char:EOLhyphen"/>don <hi>to treat with any forraigne Ambaſſador, and have liberty to come in equipage ſuitable to his degree: That then they ſhall have paſſe, and to be tranſported,</hi> &amp;c. <hi>That none of the Souldiers ſhall be reproached or abuſed, nor forced to ſerve againſt their will. That thoſe that are ſick or wounded have liberty to ſtay and care taken of them till they be recovered.</hi>
+                        </p>
+                        <p>
+                           <hi>That whoſoever they have taken as lawfull prize ſince the ſiege was before</hi> Oxford <hi>ſhall continue in the hands of the poſſeſſor.</hi>
+                        </p>
+                        <p>
+                           <hi>That the Lords, Gentlemen, Officers, Clergie men, ſhall have liberty to compound for their eſtates, and not exceed two years re<g ref="char:EOLhyphen"/>venue: That all perſons whatſoever during the time agreed upon, for their ſtay in</hi> England, <hi>may have liberty to ſtay in</hi> Oxford, <hi>or with other friends as they will, and without prejudice to there friends that receive them.</hi>
+                        </p>
+                     </body>
+                  </floatingText>
+                  <p>Let God have all the glory for this mercy and all other infi<g ref="char:EOLhyphen"/>nite mercies, which after a ſpeciall manner hee hath ſhowred upon our unworthy heads, this laſt and never to be forgotten yeare: and let the name of the worthy Inſtrument of his glory Sir <hi>Thomas Fairfax</hi> be had in perpetuall honour.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
